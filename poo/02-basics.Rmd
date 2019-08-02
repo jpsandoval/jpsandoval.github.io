@@ -1,0 +1,21 @@
+# An structural C++ Overview
+
+
+
+## Values and Data Types
+
+## Primitive Operations and Their Precedence
+
+## Variables and Substitution
+
+
+## Control Structures
+
+
+## Functions and their Scope
+
+
+## Stack Based Virtual Machines
+
+
+## Functional Recursion
