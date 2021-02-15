@@ -1,0 +1,19 @@
+{
+"nodes": [
+{
+	"id" : 1
+	"name" : "A"
+	"links" :[ 2, 3]
+}
+{
+	"id" : 2
+	"name" : "B"
+	"links" :[]
+}
+{
+	"id" : 3
+	"name" : "C"
+	"links" :[]
+}
+]
+}
