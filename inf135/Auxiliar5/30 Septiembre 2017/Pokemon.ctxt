@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.params=nom\ tip\ niv
-comment0.target=Pokemon(java.lang.String,\ int,\ int)
-comment1.params=otro
-comment1.target=boolean\ batalla(Pokemon)
-comment1.text=\n\ hierba\ 0\n\ agua\ 1\n\ fuego\ 2\n\ agua\ gana\ a\ fuego\ fuego\ gana\ a\ hierba\ y\ \n\ hierba\ agana\ a\ agua\n\ Por\ dos\ puntos,\ completar\ el\ metodo\ batalla\n\ para\ el\ caso\ que\ dos\ pokemones\ del\ mismo\ tipo\n\ peleen,\ ganara\ el\ que\ tenga\ mayor\ nivel,\ en\ caso\n\ de\ empatar,\ devolver\ "empate".\n
-numComments=2

@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=ContadorBinario()
-comment1.params=numero
-comment1.target=ContadorBinario(int)
-comment2.params=
-comment2.target=int\ incrementarContador()
-numComments=3
