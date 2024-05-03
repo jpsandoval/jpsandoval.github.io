@@ -18,27 +18,27 @@ author_profile: true
 * **On the Use of Statistical Machine Translation for Suggesting Variable Names for Decompiled Code: The Pharo Case**
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
-	Juan Pablo Sandoval Alcocer, Harold Camacho-Jaimes, Geraldine Galindo-Gutierrez, Andrés Neyem, Alexandre Bergel and Stephane Ducasse<br>
+	Juan Pablo Sandoval Alcocer, Harold Camacho-Jaimes, Geraldine Galindo-Gutierrez, Andrés Neyem, Alexandre Bergel and Stephane Ducasse.
 	<u> Journal of Computer Languages.</u>
-	<i class="fa fa-book"></i> [URL]() 
-  <i class="fa fa-file-export"></i> [bib]()
+	(<i class="fa fa-book"></i> <a href="">url</a>,
+  <i class="fa fa-file-export"></i><a href="">url</a>)
   </font>
 
 * **Asking and Answering Questions During Memory Behavior Analysis.**
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
-	Alison Fernandez Blanco, Araceli Queriolo Co ́rdova, Alexandre Bergel and Juan Pablo Sandoval Alcocer<br>
+	Alison Fernandez Blanco, Araceli Queriolo Co ́rdova, Alexandre Bergel and Juan Pablo Sandoval Alcocer.
 	<u> IEEE Transactions on Software Engineering.</u>
-	<i class="fa fa-book"></i> [URL]() 
-  <i class="fa fa-file-export"></i> [bib]()
+	(<i class="fa fa-book"></i> <a href="">url</a>,
+  <i class="fa fa-file-export"></i><a href="">url</a>)
   </font>
 * **Exploring the Impact of Generative AI for StandUp Report Recommendations in Software Capstone Project Development.**
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
-	Andres Neyem, Juan Pablo Sandoval, Marcelo Mendoza, Leonardo Centellas, Luis Armando Gonzalez, Carlos Paredes<br>
+	Andres Neyem, Juan Pablo Sandoval, Marcelo Mendoza, Leonardo Centellas, Luis Armando Gonzalez, Carlos Paredes.
 	<u> Technical Symposium on Computer Science Education.</u>
-	<i class="fa fa-book"></i> [URL]() 
-  <i class="fa fa-file-export"></i> [bib]()
+	(<i class="fa fa-book"></i> <a href="">url</a>,
+  <i class="fa fa-file-export"></i><a href="">url</a>)
   </font>
 
 ## 2023
