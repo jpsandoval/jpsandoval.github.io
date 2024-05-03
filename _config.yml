@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Juan Pablo Sandoval A"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor"
   location         : "Chile"
-  employer         : "Pontificia Universidad Católica de Chile"
+  employer         : "Pontificia Univ. Católica de Chile"
   uri              : # URL
-  email            : "juanpablo.sandoval@uc.cl" 
+  email            : # "juanpablo.sandoval@uc.cl" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=hXSNrdcAAAAJ&hl=es"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-8335-4351"
-  pubmed           : "https://jpsandoval.github.io"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Juan-Sandoval-Alcocer"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
