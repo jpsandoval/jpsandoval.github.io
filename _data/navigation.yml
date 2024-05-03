@@ -6,11 +6,8 @@ main:
   - title: "Service"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Students"
     url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
 
   - title: "Awards"
     url: /markdown/

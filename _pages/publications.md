@@ -87,46 +87,39 @@ author_profile: true
   (<a href="">url</a>, <a href="">bib</a>).
 	</font> 
 
-1.  **Transformation-based Refactorings: a First Analysis** <br>
+*  **Transformation-based Refactorings: a First Analysis.**
   <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Nicolas Anquetil, Miguel Campero, Stephane Ducasse, Juan-Pablo Sandoval Alcocer and Pablo Tesone<br>
-	<i class="fa fa-book"></i> International Workshop on Smalltalk Technologies <br>
+	Nicolas Anquetil, Miguel Campero, Stephane Ducasse, Juan-Pablo Sandoval Alcocer and Pablo Tesone.
+	<u> International Workshop on Smalltalk Technologies</u>(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	<i class="fa fa-file-pdf"></i> [URL](https://rmod-files.lille.inria.fr/Team/Texts/Papers/Anqu22b-Refactorings-IWST.pdf) <br> 
 
 
-24. **TestEvoViz: Visualizing Genetically-Based Test Coverage Evolution** <br>
+*  **TestEvoViz: Visualizing Genetically-Based Test Coverage Evolution.**
   <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Andreina Cota Vidaure, Evelyn Cusi Lopez, Juan Pablo Sandoval Alcocer, Alexandre Bergel<br>
-	<i class="fa fa-book"></i> Empirical Software Engineering <br>
+	Andreina Cota Vidaure, Evelyn Cusi Lopez, Juan Pablo Sandoval Alcocer, Alexandre Bergel.
+	<u> Empirical Software Engineering</u>(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br> 
 
-23. **Spike – A code editor plugin highlighting fine-grained changes** <br>
+*  **Spike – A code editor plugin highlighting fine-grained changes.**
   <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Ronald Escobar, Juan Pablo Sandoval Alcocer,Hagen Tarner, Fabian Beck, Alexandre Bergel<br>
-	<i class="fa fa-book"></i> IEEE Working Conference on Software Visualization (Tool/NIER Track) <br>
+	Ronald Escobar, Juan Pablo Sandoval Alcocer,Hagen Tarner, Fabian Beck, Alexandre Bergel.
+	<u> IEEE Working Conference on Software Visualization (Tool/NIER Track) </u>(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br> 
 
-22. **Visualizing Memory Consumption with Vismep** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Alison Fernandez Blanco, Alexandre Bergel, Juan Pablo Sandoval Alcocer and Araceli Queirolo Cordova<br>
-	<i class="fa fa-book"></i> IEEE Working Conference on Software Visualization (Research Track) <br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br> 
 
-21. **Software Visualizations to Analyze Memory Consumption: A Literature Review** <br>
+*  **Visualizing Memory Consumption with Vismep.** <br>
   <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Alison Fernandez Blanco, Alexandre Bergel, Juan Pablo Sandoval Alcocer<br>
-	<i class="fa fa-book"></i> ACM Computing Surveys <br>
+	Alison Fernandez Blanco, Alexandre Bergel, Juan Pablo Sandoval Alcocer and Araceli Queirolo Cordova.
+	<u> IEEE Working Conference on Software Visualization (Research Track) </u>
+  (<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>         
+
+*  **Software Visualizations to Analyze Memory Consumption: A Literature Review.**
+  <font size="3"> 
+	Alison Fernandez Blanco, Alexandre Bergel, Juan Pablo Sandoval Alcocer.
+	<u> ACM Computing Surveys </u>
+	(<a href="">url</a>, <a href="">bib</a>).
+	</font> 
           
 ## 2021
 20. **How Do Developers Use the Java Stream API?** <br>
