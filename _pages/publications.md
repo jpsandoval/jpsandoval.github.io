@@ -114,33 +114,13 @@ author_profile: true
 *  **Quality Histories of Past Extract Method Refactorings.** <font size="3"> Abel Mamani Taqui, Juan Pablo Sandoval Alcocer, Geoffrey Hecht, Alexandre Bergel. <u> International Conference on Computational Science and its Applications </u> (<a href="">url</a>, <a href="">bib</a>). </font> 
        
 ## 2020
-* **TestEvoViz: Visual Introspection for Genetically-Based Test Coverage Evolution.**
-  <font size="3">
-	Andreina Cota Vidaure, Evelyn Cusi Lopez, Juan Pablo Sandoval Alcocer, Alexandre Bergel.
-	<u> IEEE Working Conference on Software Visualization </u>
-	(<a href="">url</a>, <a href="">bib</a>).
-	</font> 
+* **TestEvoViz: Visual Introspection for Genetically-Based Test Coverage Evolution.** <font size="3"> Andreina Cota Vidaure, Evelyn Cusi Lopez, Juan Pablo Sandoval Alcocer, Alexandre Bergel <u> IEEE Working Conference on Software Visualization </u> (<a href="">url</a>, <a href="">bib</a>). </font>
 
-* **Textual Source Code Comparison: Split or Unified?** <br>
-  <font size="3"> 
-	Alejandra Cossio Chavalier, Juan Pablo Sandoval Alcocer, Alexandre Bergel.
-	<u> International Workshop on New Interfaces for Programming </u>
-	(<a href="">url</a>, <a href="">bib</a>).
-	</font> 
+* **Textual Source Code Comparison: Split or Unified?** <font size="3"> Alejandra Cossio Chavalier, Juan Pablo Sandoval Alcocer, Alexandre Bergel. <u> International Workshop on New Interfaces for Programming </u> (<a href="">url</a>, <a href="">bib</a>). </font>
 
-* **Improving the Success Rate of Applying the Extract Method Refactoring.**
-  <font size="3"> 
-	Juan Pablo Sandoval Alcocer, Alejandra Siles Antezana, Gustavo Santos, Alexandre Bergel.
-	<u> Science of Computer Programming </u>
-	(<a href="">url</a>, <a href="">bib</a>).
-	</font> 
+* **Improving the Success Rate of Applying the Extract Method Refactoring.** <font size="3"> Juan Pablo Sandoval Alcocer, Alejandra Siles Antezana, Gustavo Santos, Alexandre Bergel. <u> Science of Computer Programming </u> (<a href="">url</a>, <a href="">bib</a>). </font>
 
-* **Prioritizing versions for performance regression testing: The Pharo case.**
-  <font size="3"> 
-	Juan Pablo Sandoval Alcocer, Alexandre Bergel, Marco Tulio Valente<br>
-	<u> Science of Computer Programming </u>
-	(<a href="">url</a>, <a href="">bib</a>).
-	</font> 
+* **Prioritizing versions for performance regression testing: The Pharo case.** <font size="3"> Juan Pablo Sandoval Alcocer, Alexandre Bergel, Marco Tulio Valente<br> <u> Science of Computer Programming </u> (<a href="">url</a>, <a href="">bib</a>). </font> 
 
 ## 2019
 14. **Performance Evolution Matrix: Visualizing Performance Variations along Software Versions** <br>
