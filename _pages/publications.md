@@ -96,7 +96,7 @@ author_profile: true
 	</font> 
 
 * **Spike – A code editor plugin highlighting fine-grained changes.** <font size="3"> 
-* Ronald Escobar, Juan Pablo Sandoval Alcocer,Hagen Tarner, Fabian Beck, Alexandre Bergel.
+  Ronald Escobar, Juan Pablo Sandoval Alcocer,Hagen Tarner, Fabian Beck, Alexandre Bergel.
 	<u> IEEE Working Conference on Software Visualization (Tool/NIER Track) </u>(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
 
@@ -108,11 +108,11 @@ author_profile: true
 	</font> 
 
 *  **Software Visualizations to Analyze Memory Consumption: A Literature Review.**
-  <font size="3"> 
-	Alison Fernandez Blanco, Alexandre Bergel, Juan Pablo Sandoval Alcocer.
-	<u> ACM Computing Surveys </u>
-	(<a href="">url</a>, <a href="">bib</a>).
-	</font> 
+  <font size="3">
+  Alison Fernandez Blanco, Alexandre Bergel, Juan Pablo Sandoval Alcocer.
+  <u> ACM Computing Surveys </u>
+  (<a href="">url</a>, <a href="">bib</a>).
+  </font> 
           
 ## 2021
 * **How Do Developers Use the Java Stream API?**
