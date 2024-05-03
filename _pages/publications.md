@@ -50,10 +50,9 @@ author_profile: true
   </font>
 
 *  **Visualizing Code Dependencies in AR.**
-	<font size="3"> 
+	<font size="3">
 	Dussan Freire-Pozo, Kevin Cespedes-Arancibia, Leonel Merino, Alison Fernandez-Blanco, Andres Neyem and Juan Pablo Sandoval Alcocer.
-	<u> IEEE International Conference on Software Visualization (Tool/NIER Track)</u>
-	(<a href="">url</a>, <a href="">bib</a>).
+	<u> IEEE International Conference on Software Visualization (Tool/NIER Track)</u>(<a href="">url</a>, <a href="">bib</a>).
   </font>
 
 *  **A manual categorization of new quality issues on automatically-generated tests.**
@@ -62,7 +61,6 @@ author_profile: true
 	<u>IEEE International Conference on Software Maintenance and Evolution (Research Track)</u>
   (<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	
 
 *  **Testing in Pharo [Book]**
 	<font size="3"> 
@@ -70,7 +68,6 @@ author_profile: true
 	<u> Pharo Books </u>
   (<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	
 
 *  **An Empirical Study of Mobile Code Offloading in Unpredictable Environments.**
   <font size="3"> 
@@ -93,7 +90,6 @@ author_profile: true
 	<u> International Workshop on Smalltalk Technologies</u>(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
 
-
 *  **TestEvoViz: Visualizing Genetically-Based Test Coverage Evolution.**
   <font size="3"> 
 	Andreina Cota Vidaure, Evelyn Cusi Lopez, Juan Pablo Sandoval Alcocer, Alexandre Bergel.
@@ -105,7 +101,6 @@ author_profile: true
 	Ronald Escobar, Juan Pablo Sandoval Alcocer,Hagen Tarner, Fabian Beck, Alexandre Bergel.
 	<u> IEEE Working Conference on Software Visualization (Tool/NIER Track) </u>(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-
 
 *  **Visualizing Memory Consumption with Vismep.** <br>
   <font size="3"> 
