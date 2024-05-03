@@ -11,8 +11,9 @@ author_profile: true
 	<font size="2"> 
 	<i class="fa fa-user-friends"></i>
 	Andres Neyem , Luis A. Gonzalez , Marcelo Mendoza , Juan Pablo Sandoval Alcocer, Leonardo Centellas and Carlos Paredes<br>
-	<i class="fa fa-book"></i> IEEE Transactions on Learning Technologies. <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print]() <br> 
+	<i class="fa fa-book"></i> IEEE Transactions on Learning Technologies.
+	<i class="fa fa-file-archive"></i> [URL]() 
+  <i class="fa fa-file-export"></i> [bib]()
   </font> 
 	
 
