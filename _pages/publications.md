@@ -10,81 +10,74 @@ author_profile: true
 * **Towards an AI Knowledge Assistant for Context-aware Learning Experiences in Software Capstone Project Development.** 
 	<font size="3"> 
 	Andres Neyem , Luis A. Gonzalez , Marcelo Mendoza , Juan Pablo Sandoval Alcocer, Leonardo Centellas and Carlos Paredes.
-	<u>IEEE Transactions on Learning Technologies.</u>
-	(<a href="">url</a>, <a href="">bib</a>)
+	<u>IEEE Transactions on Learning Technologies</u>
+	(<a href="">url</a>, <a href="">bib</a>).
   </font>
 
 * **On the Use of Statistical Machine Translation for Suggesting Variable Names for Decompiled Code: The Pharo Case**
 	<font size="3"> 
-	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Harold Camacho-Jaimes, Geraldine Galindo-Gutierrez, Andrés Neyem, Alexandre Bergel and Stephane Ducasse.
-	<u> Journal of Computer Languages.</u>
-	(<a href="">url</a>, <a href="">bib</a>)
+	<u> Journal of Computer Languages</u>
+	(<a href="">url</a>, <a href="">bib</a>).
   </font>
 
 * **Asking and Answering Questions During Memory Behavior Analysis.**
 	<font size="3"> 
-	<i class="fa fa-user-friends"></i>
 	Alison Fernandez Blanco, Araceli Queriolo Co ́rdova, Alexandre Bergel and Juan Pablo Sandoval Alcocer.
-	<u> IEEE Transactions on Software Engineering.</u>
-	(<a href="">url</a>, <a href="">bib</a>)
+	<u> IEEE Transactions on Software Engineering</u>
+	(<a href="">url</a>, <a href="">bib</a>).
   </font>
 * **Exploring the Impact of Generative AI for StandUp Report Recommendations in Software Capstone Project Development.**
 	<font size="3"> 
-	<i class="fa fa-user-friends"></i>
 	Andres Neyem, Juan Pablo Sandoval, Marcelo Mendoza, Leonardo Centellas, Luis Armando Gonzalez, Carlos Paredes.
-	<u> Technical Symposium on Computer Science Education.</u>
-	(<a href="">url</a>, <a href="">bib</a>)
+	<u> Technical Symposium on Computer Science Education</u>
+	(<a href="">url</a>, <a href="">bib</a>).
   </font>
 
 ## 2023
-* **SmallEvoTest: Genetically Created Unit Tests for Smalltalk**
-	<font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Alexandre Bergel, Geraldine Galindo-Gutiérrez, Alison Fernandez-Blanco, Juan-Pablo Sandoval-Alcocer<br>
-	<i class="fa fa-book"></i> International Workshop on Smalltalk Technologies.
-  (<a href="">url</a>, <a href="">bib</a>)
+* **SmallEvoTest: Genetically Created Unit Tests for Smalltalk.**
+	<font size="3">
+  Alexandre Bergel, Geraldine Galindo-Gutiérrez, Alison Fernandez-Blanco, Juan-Pablo Sandoval-Alcocer<br>
+	<u> International Workshop on Smalltalk Technologies</u>
+  (<a href="">url</a>, <a href="">bib</a>).
   </font>
 
-* **An Eye-Tracking Study on the Use of Split/Unified Code Change Views for Bug Detection** <br>
+* **An Eye-Tracking Study on the Use of Split/Unified Code Change Views for Bug Detection.**
 	<font size="3"> 
-	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Alejandra Cossio-Chavalier, Tiara Rojas Stambuk, Leonel Merino<br>
-	<i class="fa fa-book"></i> IEEE Access<br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [Pre-print]() <br> 
+	<u> IEEE Access</u>
+	(<a href="">url</a>, <a href="">bib</a>).
+  </font>
 
-*  **Visualizing Code Dependencies in AR** <br>
+*  **Visualizing Code Dependencies in AR.** <br>
 	<font size="3"> 
-	<i class="fa fa-user-friends"></i>
 	Dussan Freire-Pozo, Kevin Cespedes-Arancibia, Leonel Merino, Alison Fernandez-Blanco, Andres Neyem and Juan Pablo Sandoval Alcocer<br>
-	<i class="fa fa-book"></i> IEEE International Conference on Software Visualization (Tool/NIER Track)<br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [Pre-print]() <br> 
+	<u> IEEE International Conference on Software Visualization (Tool/NIER Track)</u>
+	(<a href="">url</a>, <a href="">bib</a>).
+  </font>
 
-*  **A manual categorization of new quality issues on automatically-generated tests** <br>
+*  **A manual categorization of new quality issues on automatically-generated tests.** <br>
 	<font size="3"> 
-	<i class="fa fa-user-friends"></i>
 	Geraldine Galindo-Gutierrez, Maximiliano Narea Carvajal, Alison Fernandez Blanco, Nicolas Anquetil, Juan Pablo Sandoval Alcocer<br>
-	<i class="fa fa-book"></i> IEEE International Conference on Software Maintenance and Evolution (Research Track)<br>
+	<u>IEEE International Conference on Software Maintenance and Evolution (Research Track)</u>
+  (<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	<i class="fa fa-file-pdf"></i> [Pre-print]() <br> 
+	
 
 *  **Testing in Pharo [Book]** <br>
 	<font size="3"> 
-	<i class="fa fa-user-friends"></i>
 	Stéphane Ducasse, Guillermo Polito, Juan-Pablo Sandoval<br>
-	<i class="fa fa-book"></i> Book <br>
+	<u> Pharo Books </u>
+  (<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	<i class="fa fa-file-pdf"></i> [URL](https://books.pharo.org/booklet-Testing/) <br> 
+	
 
-*  **An Empirical Study of Mobile Code Offloading in Unpredictable Environments** <br>
+*  **An Empirical Study of Mobile Code Offloading in Unpredictable Environments.**
   <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Pablo Sanabria, Andres Neyem, Juan Pablo Sandoval Alcocer, Alison Fernandez-Blanco<br>
-	<i class="fa fa-book"></i> IEEE Access<br>
+	Pablo Sanabria, Andres Neyem, Juan Pablo Sandoval Alcocer, Alison Fernandez-Blanco.
+	<u> IEEE Access</u>
+	(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	<i class="fa fa-file-pdf"></i> [URL](https://ieeexplore.ieee.org/document/1017462) <br> 
 
 ## 2022
 26. **Introduction to Special Issue on Visualization Applied to Software Engineering** <br>
