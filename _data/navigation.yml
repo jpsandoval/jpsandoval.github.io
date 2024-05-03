@@ -11,9 +11,10 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
+
+  - title: "Awards"
+    url: /markdown/
+
   - title: "About"
     url: /cv/
     
-  - title: "Awards"
-    url: /markdown/
