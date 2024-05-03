@@ -21,4 +21,4 @@ Grant & Awards
 
 News
 ======
-- 
+- Our book "Testing in Pharo" is online: [pharo books](https://pharo.org/news/2024-02-12-Book-Testing.html)
