@@ -4,9 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 ## 2024
 
-- **Towards an AI Knowledge Assistant for Context-aware Learning Experiences in Software Capstone Project Development** <br>
+36. **Towards an AI Knowledge Assistant for Context-aware Learning Experiences in Software Capstone Project Development** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Andres Neyem , Luis A. Gonzalez , Marcelo Mendoza , Juan Pablo Sandoval Alcocer, Leonardo Centellas and Carlos Paredes<br>
@@ -14,7 +15,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-- **On the Use of Statistical Machine Translation for Suggesting Variable Names for Decompiled Code: The Pharo Case** <br>
+35. **On the Use of Statistical Machine Translation for Suggesting Variable Names for Decompiled Code: The Pharo Case** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Harold Camacho-Jaimes, Geraldine Galindo-Gutierrez, Andrés Neyem, Alexandre Bergel and Stephane Ducasse<br>
@@ -22,7 +23,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-- **Asking and Answering Questions During Memory Behavior Analysis** <br>
+34. **Asking and Answering Questions During Memory Behavior Analysis** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alison Fernandez Blanco, Araceli Queriolo Co ́rdova, Alexandre Bergel and Juan Pablo Sandoval Alcocer<br>
@@ -30,15 +31,16 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-- **Exploring the Impact of Generative AI for StandUp Report Recommendations in Software Capstone Project Development** <br>
+33. **Exploring the Impact of Generative AI for StandUp Report Recommendations in Software Capstone Project Development** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Andres Neyem, Juan Pablo Sandoval, Marcelo Mendoza, Leonardo Centellas, Luis Armando Gonzalez, Carlos Paredes<br>
 	<i class="fa fa-book"></i> Technical Symposium on Computer Science Education<br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
+
 ## 2023
-- **SmallEvoTest: Genetically Created Unit Tests for Smalltalk** <br>
+32. **SmallEvoTest: Genetically Created Unit Tests for Smalltalk** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alexandre Bergel, Geraldine Galindo-Gutiérrez, Alison Fernandez-Blanco, Juan-Pablo Sandoval-Alcocer<br>
@@ -46,7 +48,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-- **An Eye-Tracking Study on the Use of Split/Unified Code Change Views for Bug Detection** <br>
+31. **An Eye-Tracking Study on the Use of Split/Unified Code Change Views for Bug Detection** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Alejandra Cossio-Chavalier, Tiara Rojas Stambuk, Leonel Merino<br>
@@ -54,7 +56,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-- **Visualizing Code Dependencies in AR** <br>
+30. **Visualizing Code Dependencies in AR** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Dussan Freire-Pozo, Kevin Cespedes-Arancibia, Leonel Merino, Alison Fernandez-Blanco, Andres Neyem and Juan Pablo Sandoval Alcocer<br>
@@ -62,7 +64,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-- **A manual categorization of new quality issues on automatically-generated tests** <br>
+29. **A manual categorization of new quality issues on automatically-generated tests** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Geraldine Galindo-Gutierrez, Maximiliano Narea Carvajal, Alison Fernandez Blanco, Nicolas Anquetil, Juan Pablo Sandoval Alcocer<br>
@@ -70,7 +72,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-- **Testing in Pharo [Book]** <br>
+28. **Testing in Pharo [Book]** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Stéphane Ducasse, Guillermo Polito, Juan-Pablo Sandoval<br>
@@ -78,7 +80,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL](https://books.pharo.org/booklet-Testing/)} <br> 
 
-- **An Empirical Study of Mobile Code Offloading in Unpredictable Environments** <br>
+27. **An Empirical Study of Mobile Code Offloading in Unpredictable Environments** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Pablo Sanabria, Andres Neyem, Juan Pablo Sandoval Alcocer, Alison Fernandez-Blanco<br>
@@ -87,7 +89,7 @@ author_profile: true
 	<i class="fa fa-file-pdf"></i> [URL](https://ieeexplore.ieee.org/document/1017462)} <br> 
 
 ## 2022
-- **Introduction to Special Issue on Visualization Applied to Software Engineering** <br>
+26. **Introduction to Special Issue on Visualization Applied to Software Engineering** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Paul Leger, Alexandre Bergel, Juan Pablo Sandoval, Leonel Merino<br>
@@ -95,7 +97,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL](https://www.sciencedirect.com/science/article/abs/pii/S0950584922002270)} <br> 
 
-- **Transformation-based Refactorings: a First Analysis** <br>
+25. **Transformation-based Refactorings: a First Analysis** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Nicolas Anquetil, Miguel Campero, Stephane Ducasse, Juan-Pablo Sandoval Alcocer and Pablo Tesone<br>
@@ -104,7 +106,7 @@ author_profile: true
 	<i class="fa fa-file-pdf"></i> [URL](https://rmod-files.lille.inria.fr/Team/Texts/Papers/Anqu22b-Refactorings-IWST.pdf)} <br> 
 
 
-- **TestEvoViz: Visualizing Genetically-Based Test Coverage Evolution** <br>
+24. **TestEvoViz: Visualizing Genetically-Based Test Coverage Evolution** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Andreina Cota Vidaure, Evelyn Cusi Lopez, Juan Pablo Sandoval Alcocer, Alexandre Bergel<br>
@@ -112,7 +114,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL]()} <br> 
 
-- **Spike – A code editor plugin highlighting fine-grained changes** <br>
+23. **Spike – A code editor plugin highlighting fine-grained changes** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Ronald Escobar, Juan Pablo Sandoval Alcocer,Hagen Tarner, Fabian Beck, Alexandre Bergel<br>
@@ -120,7 +122,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL]()} <br> 
 
-- **Visualizing Memory Consumption with Vismep** <br>
+22. **Visualizing Memory Consumption with Vismep** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alison Fernandez Blanco, Alexandre Bergel, Juan Pablo Sandoval Alcocer and Araceli Queirolo Cordova<br>
@@ -128,7 +130,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL]()} <br> 
 
-- **Software Visualizations to Analyze Memory Consumption: A Literature Review** <br>
+21. **Software Visualizations to Analyze Memory Consumption: A Literature Review** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alison Fernandez Blanco, Alexandre Bergel, Juan Pablo Sandoval Alcocer<br>
@@ -137,7 +139,7 @@ author_profile: true
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>         
           
 ## 2021
-- **How Do Developers Use the Java Stream API?** <br>
+20. **How Do Developers Use the Java Stream API?** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Joshua Nostas, Juan Pablo Sandoval Alcocer, Diego Elias Costa, Alexandre Bergel<br>
@@ -145,7 +147,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>         
 
-- **Quality Histories of Past Extract Method Refactorings** <br>
+19. **Quality Histories of Past Extract Method Refactorings** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Abel Mamani Taqui, Juan Pablo Sandoval Alcocer, Geoffrey Hecht, Alexandre Bergel<br>
@@ -154,7 +156,7 @@ author_profile: true
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>        
        
 ## 2020
-- **TestEvoViz: Visual Introspection for Genetically-Based Test Coverage Evolution** <br>
+18. **TestEvoViz: Visual Introspection for Genetically-Based Test Coverage Evolution** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Andreina Cota Vidaure, Evelyn Cusi Lopez, Juan Pablo Sandoval Alcocer, Alexandre Bergel<br>
@@ -162,7 +164,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>             
 
-- **Textual Source Code Comparison: Split or Unified?** <br>
+17. **Textual Source Code Comparison: Split or Unified?** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alejandra Cossio Chavalier, Juan Pablo Sandoval Alcocer, Alexandre Bergel<br>
@@ -171,7 +173,7 @@ author_profile: true
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>       
 
 
-- **Improving the Success Rate of Applying the Extract Method Refactoring** <br>
+16. **Improving the Success Rate of Applying the Extract Method Refactoring** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Alejandra Siles Antezana, Gustavo Santos, Alexandre Bergel<br>
@@ -179,7 +181,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL]()} <br> 
 
-- **Prioritizing versions for performance regression testing: The Pharo case** <br>
+15. **Prioritizing versions for performance regression testing: The Pharo case** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Alexandre Bergel, Marco Tulio Valente<br>
@@ -188,7 +190,7 @@ author_profile: true
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>        
 
 ## 2019
-- **Performance Evolution Matrix: Visualizing Performance Variations along Software Versions** <br>
+14. **Performance Evolution Matrix: Visualizing Performance Variations along Software Versions** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Fabian Beck, Alexandre Bergel<br>
@@ -196,7 +198,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>
 
-- **Enhancing Commit Graphs with Visual Runtime Clues** <br>
+13. **Enhancing Commit Graphs with Visual Runtime Clues** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Harold Camacho Jaimes, Diego Costa,  Alexandre Bergel, Fabian Beck<br>
@@ -205,14 +207,14 @@ author_profile: true
 	<i class="fa fa-file-pdf"></i> [URL]()} <br> 
     
 ## 2018
-- **Deviation Testing: A Test Case Generation Technique for GraphQL APIs** <br>
+12. **Deviation Testing: A Test Case Generation Technique for GraphQL APIs** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Daniela Meneses Vargas, Alison Fernandez Blanco, Andreina Cota Vidaurre, Juan Pablo Sandoval Alcocer, Milton Mamani Torres, Alexandre Bergel, Stéphane Ducasse<br>
 	<i class="fa fa-book"></i> Internation Workshop on Smalltalk Technologies <br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL]()} <br> 
-- **Effective Visualization of Object Allocation Sites** <br>
+11. **Effective Visualization of Object Allocation Sites** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alison Fernandez Blanco, Juan Pablo Sandoval Alcocer, Alexandre Bergel<br>
@@ -220,7 +222,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL]()} <br> 
 
-- **Reducing Resource Consumption of Expandable Collections: The Pharo Case** <br>
+10. **Reducing Resource Consumption of Expandable Collections: The Pharo Case** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alexandre Bergel, Alejandro Infante, Sergio Maass, Juan Pablo Sandoval Alcocer<br>
@@ -229,7 +231,7 @@ author_profile: true
 	<i class="fa fa-file-pdf"></i> [URL]()} <br> 
 
 ## 2016
-- **Dynamically Composing Collection Operations through Collection Promises** <br>
+9. **Dynamically Composing Collection Operations through Collection Promises** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Marcus Denker, Alexandre Bergel, Yasett Acurana<br>
@@ -237,7 +239,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>       
 
-- **Glyph-Based Software Component Identification** <br>
+8. **Glyph-Based Software Component Identification** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Ignacio Fernandez, Alexandre Bergel, Juan Pablo Sandoval Alcocer, Alejandro Infante, Tudor Girba<br>
@@ -245,7 +247,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>       
 
-- **Learning from Source Code History to Identify Performance Failures** <br>
+7. **Learning from Source Code History to Identify Performance Failures** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Alexandre Bergel, Marco Tulio Valente<br>
@@ -254,7 +256,7 @@ author_profile: true
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>        
 
 ## 2015
-- **Tracking Down Performance Variation Against Source Code Evolution** <br>
+6. **Tracking Down Performance Variation Against Source Code Evolution** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Alexandre Bergel<br>
@@ -263,7 +265,7 @@ author_profile: true
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>  
 
 ## 2014
-- **Reducing Waste in Expandable Collections: The Pharo Case** <br>
+5. **Reducing Waste in Expandable Collections: The Pharo Case** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alexandre Bergel, Alejandro Infante Rica and Juan Pablo Sandoval A<br>
@@ -272,14 +274,14 @@ author_profile: true
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>  
 
 ## 2013
-- **Performance Evolution Blueprint: Understanding the Impact of Software Evolution on Performance** <br>
+4. **Performance Evolution Blueprint: Understanding the Impact of Software Evolution on Performance** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval A, Alexandre Bergel, Sthepanie Ducasse, Marcus Denker<br>
 	<i class="fa fa-book"></i> IEEE Working Conference on Software Visualization <br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>  
-- **Identifying equivalent objects to reduce memory consumption** <br>
+3. **Identifying equivalent objects to reduce memory consumption** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alejandro Infante, Juan Pablo Sandoval and Alexandre Bergel<br>
@@ -288,14 +290,14 @@ author_profile: true
 	<i class="fa fa-file-pdf"></i> [URL]()} <br>  
 
 ## 2012
-- **The Hidden Face of Execution Sampling** <br>
+2. **The Hidden Face of Execution Sampling** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alexandre Bergel, Vanessa Pena, Juan Pablo Sandoval<br>
 	<i class="fa fa-book"></i> Smalltalk Direction Workshop - Collocated with STIC'12<br>
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL]()} <br> 
-- **Debugging performance failures** <br>
+1. **Debugging performance failures** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval, Alexandre Bergel<br>
