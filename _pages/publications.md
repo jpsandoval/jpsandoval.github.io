@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2024
 
-36. **Towards an AI Knowledge Assistant for Context-aware Learning Experiences in Software Capstone Project Development** <br>
+* **Towards an AI Knowledge Assistant for Context-aware Learning Experiences in Software Capstone Project Development** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Andres Neyem , Luis A. Gonzalez , Marcelo Mendoza , Juan Pablo Sandoval Alcocer, Leonardo Centellas and Carlos Paredes<br>
@@ -15,7 +15,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-35. **On the Use of Statistical Machine Translation for Suggesting Variable Names for Decompiled Code: The Pharo Case** <br>
+* **On the Use of Statistical Machine Translation for Suggesting Variable Names for Decompiled Code: The Pharo Case** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Harold Camacho-Jaimes, Geraldine Galindo-Gutierrez, Andrés Neyem, Alexandre Bergel and Stephane Ducasse<br>
@@ -23,7 +23,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-34. **Asking and Answering Questions During Memory Behavior Analysis** <br>
+* **Asking and Answering Questions During Memory Behavior Analysis** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alison Fernandez Blanco, Araceli Queriolo Co ́rdova, Alexandre Bergel and Juan Pablo Sandoval Alcocer<br>
@@ -31,7 +31,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-33. **Exploring the Impact of Generative AI for StandUp Report Recommendations in Software Capstone Project Development** <br>
+* **Exploring the Impact of Generative AI for StandUp Report Recommendations in Software Capstone Project Development** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Andres Neyem, Juan Pablo Sandoval, Marcelo Mendoza, Leonardo Centellas, Luis Armando Gonzalez, Carlos Paredes<br>
@@ -40,7 +40,7 @@ author_profile: true
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
 ## 2023
-32. **SmallEvoTest: Genetically Created Unit Tests for Smalltalk** <br>
+* **SmallEvoTest: Genetically Created Unit Tests for Smalltalk** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alexandre Bergel, Geraldine Galindo-Gutiérrez, Alison Fernandez-Blanco, Juan-Pablo Sandoval-Alcocer<br>
@@ -48,7 +48,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-31. **An Eye-Tracking Study on the Use of Split/Unified Code Change Views for Bug Detection** <br>
+* **An Eye-Tracking Study on the Use of Split/Unified Code Change Views for Bug Detection** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Alejandra Cossio-Chavalier, Tiara Rojas Stambuk, Leonel Merino<br>
@@ -56,7 +56,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-30. **Visualizing Code Dependencies in AR** <br>
+*  **Visualizing Code Dependencies in AR** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Dussan Freire-Pozo, Kevin Cespedes-Arancibia, Leonel Merino, Alison Fernandez-Blanco, Andres Neyem and Juan Pablo Sandoval Alcocer<br>
@@ -64,7 +64,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-29. **A manual categorization of new quality issues on automatically-generated tests** <br>
+*  **A manual categorization of new quality issues on automatically-generated tests** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Geraldine Galindo-Gutierrez, Maximiliano Narea Carvajal, Alison Fernandez Blanco, Nicolas Anquetil, Juan Pablo Sandoval Alcocer<br>
@@ -72,7 +72,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]()} <br> 
 
-28. **Testing in Pharo [Book]** <br>
+*  **Testing in Pharo [Book]** <br>
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Stéphane Ducasse, Guillermo Polito, Juan-Pablo Sandoval<br>
@@ -80,7 +80,7 @@ author_profile: true
 	</font> 
 	<i class="fa fa-file-pdf"></i> [URL](https://books.pharo.org/booklet-Testing/)} <br> 
 
-27. **An Empirical Study of Mobile Code Offloading in Unpredictable Environments** <br>
+*  **An Empirical Study of Mobile Code Offloading in Unpredictable Environments** <br>
   <font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Pablo Sanabria, Andres Neyem, Juan Pablo Sandoval Alcocer, Alison Fernandez-Blanco<br>
