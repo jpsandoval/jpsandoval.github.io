@@ -7,12 +7,11 @@ author_profile: true
 
 ## 2024
 
-* **Towards an AI Knowledge Assistant for Context-aware Learning Experiences in Software Capstone Project Development** 
+* **Towards an AI Knowledge Assistant for Context-aware Learning Experiences in Software Capstone Project Development.** 
 	<font size="3"> 
-  <i class="fa fa-user-friends"></i>
-	Andres Neyem , Luis A. Gonzalez , Marcelo Mendoza , Juan Pablo Sandoval Alcocer, Leonardo Centellas and Carlos Paredes<br>
-	<i class="fa fa-book"></i> IEEE Transactions on Learning Technologies.
-	<i class="fa fa-file-archive"></i> [URL]() 
+	Andres Neyem , Luis A. Gonzalez , Marcelo Mendoza , Juan Pablo Sandoval Alcocer, Leonardo Centellas and Carlos Paredes.
+	<u>IEEE Transactions on Learning Technologies.</u>
+	<i class="fa fa-book"></i> [URL]() 
   <i class="fa fa-file-export"></i> [bib]()
   </font>
 
@@ -20,26 +19,26 @@ author_profile: true
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Harold Camacho-Jaimes, Geraldine Galindo-Gutierrez, Andrés Neyem, Alexandre Bergel and Stephane Ducasse<br>
-	<i class="fa fa-book"></i> Journal of Computer Languages.
-	<i class="fa fa-file-archive"></i> [URL]() 
-  <i class="fa fa-file-export"></i> [bib]() 
-  </font> 
+	<u> Journal of Computer Languages.</u>
+	<i class="fa fa-book"></i> [URL]() 
+  <i class="fa fa-file-export"></i> [bib]()
+  </font>
 
-* **Asking and Answering Questions During Memory Behavior Analysis**
+* **Asking and Answering Questions During Memory Behavior Analysis.**
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alison Fernandez Blanco, Araceli Queriolo Co ́rdova, Alexandre Bergel and Juan Pablo Sandoval Alcocer<br>
-	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering<br>
-	<i class="fa fa-file-archive"></i> [URL]() 
-  <i class="fa fa-file-export"></i> [bib]() 
+	<u> IEEE Transactions on Software Engineering.</u>
+	<i class="fa fa-book"></i> [URL]() 
+  <i class="fa fa-file-export"></i> [bib]()
   </font>
-* **Exploring the Impact of Generative AI for StandUp Report Recommendations in Software Capstone Project Development**
+* **Exploring the Impact of Generative AI for StandUp Report Recommendations in Software Capstone Project Development.**
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Andres Neyem, Juan Pablo Sandoval, Marcelo Mendoza, Leonardo Centellas, Luis Armando Gonzalez, Carlos Paredes<br>
-	<i class="fa fa-book"></i> Technical Symposium on Computer Science Education<br>
-	<i class="fa fa-file-archive"></i> [URL]() 
-  <i class="fa fa-file-export"></i> [bib]() 
+	<u> Technical Symposium on Computer Science Education.</u>
+	<i class="fa fa-book"></i> [URL]() 
+  <i class="fa fa-file-export"></i> [bib]()
   </font>
 
 ## 2023
