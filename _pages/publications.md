@@ -116,55 +116,48 @@ author_profile: true
 	</font> 
           
 ## 2021
-20. **How Do Developers Use the Java Stream API?** <br>
+* **How Do Developers Use the Java Stream API?**
   <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Joshua Nostas, Juan Pablo Sandoval Alcocer, Diego Elias Costa, Alexandre Bergel<br>
-	<i class="fa fa-book"></i> International Conference on Computational Science and its Applications <br>
+	Joshua Nostas, Juan Pablo Sandoval Alcocer, Diego Elias Costa, Alexandre Bergel.
+	<u> International Conference on Computational Science and its Applications (<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>         
+	
 
-19. **Quality Histories of Past Extract Method Refactorings** <br>
+*  **Quality Histories of Past Extract Method Refactorings.**
   <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Abel Mamani Taqui, Juan Pablo Sandoval Alcocer, Geoffrey Hecht, Alexandre Bergel<br>
-	<i class="fa fa-book"></i> International Conference on Computational Science and its Applications <br>
+	Abel Mamani Taqui, Juan Pablo Sandoval Alcocer, Geoffrey Hecht, Alexandre Bergel.
+	<u> International Conference on Computational Science and its Applications </u>
+	(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>        
        
 ## 2020
-18. **TestEvoViz: Visual Introspection for Genetically-Based Test Coverage Evolution** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Andreina Cota Vidaure, Evelyn Cusi Lopez, Juan Pablo Sandoval Alcocer, Alexandre Bergel<br>
-	<i class="fa fa-book"></i> IEEE Working Conference on Software Visualization <br>
+* **TestEvoViz: Visual Introspection for Genetically-Based Test Coverage Evolution.**
+  <font size="3">
+	Andreina Cota Vidaure, Evelyn Cusi Lopez, Juan Pablo Sandoval Alcocer, Alexandre Bergel.
+	<u> IEEE Working Conference on Software Visualization </u>
+	(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>             
 
-17. **Textual Source Code Comparison: Split or Unified?** <br>
+* **Textual Source Code Comparison: Split or Unified?** <br>
   <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Alejandra Cossio Chavalier, Juan Pablo Sandoval Alcocer, Alexandre Bergel<br>
-	<i class="fa fa-book"></i> International Workshop on New Interfaces for Programming <br>
+	Alejandra Cossio Chavalier, Juan Pablo Sandoval Alcocer, Alexandre Bergel.
+	<u> International Workshop on New Interfaces for Programming </u>
+	(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>       
 
-
-16. **Improving the Success Rate of Applying the Extract Method Refactoring** <br>
+* **Improving the Success Rate of Applying the Extract Method Refactoring.**
   <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Juan Pablo Sandoval Alcocer, Alejandra Siles Antezana, Gustavo Santos, Alexandre Bergel<br>
-	<i class="fa fa-book"></i> Science of Computer Programming <br>
+	Juan Pablo Sandoval Alcocer, Alejandra Siles Antezana, Gustavo Santos, Alexandre Bergel.
+	<u> Science of Computer Programming </u>
+	(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br> 
 
-15. **Prioritizing versions for performance regression testing: The Pharo case** <br>
+* **Prioritizing versions for performance regression testing: The Pharo case.**
   <font size="3"> 
-	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Alexandre Bergel, Marco Tulio Valente<br>
-	<i class="fa fa-book"></i> Science of Computer Programming <br>
+	<u> Science of Computer Programming </u>
+	(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>        
 
 ## 2019
 14. **Performance Evolution Matrix: Visualizing Performance Variations along Software Versions** <br>
