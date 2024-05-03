@@ -123,117 +123,37 @@ author_profile: true
 * **Prioritizing versions for performance regression testing: The Pharo case.** <font size="3"> Juan Pablo Sandoval Alcocer, Alexandre Bergel, Marco Tulio Valente<br> <u> Science of Computer Programming </u> (<a href="">url</a>, <a href="">bib</a>). </font> 
 
 ## 2019
-14. **Performance Evolution Matrix: Visualizing Performance Variations along Software Versions** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Juan Pablo Sandoval Alcocer, Fabian Beck, Alexandre Bergel<br>
-	<i class="fa fa-book"></i> IEEE Working Conference on Software Visualization (Research Track) <br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>
+* **Performance Evolution Matrix: Visualizing Performance Variations along Software Versions.** <font size="3"> Juan Pablo Sandoval Alcocer, Fabian Beck, Alexandre Bergel. <u>IEEE Working Conference on Software Visualization (Research Track)</u> (<a href="">url</a>, <a href="">bib</a>).</font> 
+	
 
-13. **Enhancing Commit Graphs with Visual Runtime Clues** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Juan Pablo Sandoval Alcocer, Harold Camacho Jaimes, Diego Costa,  Alexandre Bergel, Fabian Beck<br>
-	<i class="fa fa-book"></i> IEEE Working Conference on Software Visualization (Tool/NIER Track) <br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br> 
+* **Enhancing Commit Graphs with Visual Runtime Clues.** <font size="3"> Juan Pablo Sandoval Alcocer, Harold Camacho Jaimes, Diego Costa,  Alexandre Bergel, Fabian Beck. <u>IEEE Working Conference on Software Visualization (Tool/NIER Track)</u> (<a href="">url</a>, <a href="">bib</a>).</font> 
     
 ## 2018
-12. **Deviation Testing: A Test Case Generation Technique for GraphQL APIs** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Daniela Meneses Vargas, Alison Fernandez Blanco, Andreina Cota Vidaurre, Juan Pablo Sandoval Alcocer, Milton Mamani Torres, Alexandre Bergel, Stéphane Ducasse<br>
-	<i class="fa fa-book"></i> Internation Workshop on Smalltalk Technologies <br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br> 
-11. **Effective Visualization of Object Allocation Sites** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Alison Fernandez Blanco, Juan Pablo Sandoval Alcocer, Alexandre Bergel<br>
-	<i class="fa fa-book"></i> IEEE Working Conference on Software Visualization (Research Track) <br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br> 
+* **Deviation Testing: A Test Case Generation Technique for GraphQL APIs.** <font size="3"> Daniela Meneses Vargas, Alison Fernandez Blanco, Andreina Cota Vidaurre, Juan Pablo Sandoval Alcocer, Milton Mamani Torres, Alexandre Bergel, Stéphane Ducasse. <u> Internation Workshop on Smalltalk Technologies </u> (<a href="">url</a>, <a href="">bib</a>).</font> 
 
-10. **Reducing Resource Consumption of Expandable Collections: The Pharo Case** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Alexandre Bergel, Alejandro Infante, Sergio Maass, Juan Pablo Sandoval Alcocer<br>
-	<i class="fa fa-book"></i> Science of Computer Programming <br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br> 
+* **Effective Visualization of Object Allocation Sites.** <font size="3"> Alison Fernandez Blanco, Juan Pablo Sandoval Alcocer, Alexandre Bergel. <u> IEEE Working Conference on Software Visualization (Research Track) </u>(<a href="">url</a>, <a href="">bib</a>).</font> 
+
+* **Reducing Resource Consumption of Expandable Collections: The Pharo Case.** <font size="3"> Alexandre Bergel, Alejandro Infante, Sergio Maass, Juan Pablo Sandoval Alcocer.<u> Science of Computer Programming </u> (<a href="">url</a>, <a href="">bib</a>).</font> 
 
 ## 2016
-9. **Dynamically Composing Collection Operations through Collection Promises** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Juan Pablo Sandoval Alcocer, Marcus Denker, Alexandre Bergel, Yasett Acurana<br>
-	<i class="fa fa-book"></i> International Workshop on Smalltalk Technologies <br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>       
+* **Dynamically Composing Collection Operations through Collection Promises.** <font size="3"> Juan Pablo Sandoval Alcocer, Marcus Denker, Alexandre Bergel, Yasett Acurana. <u> International Workshop on Smalltalk Technologies </u> (<a href="">url</a>, <a href="">bib</a>).</font>
 
-8. **Glyph-Based Software Component Identification** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Ignacio Fernandez, Alexandre Bergel, Juan Pablo Sandoval Alcocer, Alejandro Infante, Tudor Girba<br>
-	<i class="fa fa-book"></i> IEEE International conference on Program Comprehension <br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>       
+* **Glyph-Based Software Component Identification.** <font size="3"> Ignacio Fernandez, Alexandre Bergel, Juan Pablo Sandoval Alcocer, Alejandro Infante, Tudor Girba. <u> IEEE International conference on Program Comprehension </u>(<a href="">url</a>, <a href="">bib</a>).</font> 
 
-7. **Learning from Source Code History to Identify Performance Failures** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Juan Pablo Sandoval Alcocer, Alexandre Bergel, Marco Tulio Valente<br>
-	<i class="fa fa-book"></i> ACM/SPEC International Conference on Performance Engineering <br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>        
+* **Learning from Source Code History to Identify Performance Failures.** <font size="3"> Juan Pablo Sandoval Alcocer, Alexandre Bergel, Marco Tulio Valente.<u> ACM/SPEC International Conference on Performance Engineering </u>(<a href="">url</a>, <a href="">bib</a>).</font> 
 
 ## 2015
-6. **Tracking Down Performance Variation Against Source Code Evolution** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Juan Pablo Sandoval Alcocer, Alexandre Bergel<br>
-	<i class="fa fa-book"></i> ACM Dynamic Languages Symposium <br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>  
+* **Tracking Down Performance Variation Against Source Code Evolution.** <font size="3"> Juan Pablo Sandoval Alcocer, Alexandre Bergel.<u> ACM Dynamic Languages Symposium </u>(<a href="">url</a>, <a href="">bib</a>).</font> 
 
 ## 2014
-5. **Reducing Waste in Expandable Collections: The Pharo Case** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Alexandre Bergel, Alejandro Infante Rica and Juan Pablo Sandoval A<br>
-	<i class="fa fa-book"></i> International Workshop on Smalltalk <br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>  
+* **Reducing Waste in Expandable Collections: The Pharo Case.** <font size="3"> Alexandre Bergel, Alejandro Infante Rica and Juan Pablo Sandoval Alcocer. <u> International Workshop on Smalltalk </u> (<a href="">url</a>, <a href="">bib</a>).</font> 
 
 ## 2013
-4. **Performance Evolution Blueprint: Understanding the Impact of Software Evolution on Performance** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Juan Pablo Sandoval A, Alexandre Bergel, Sthepanie Ducasse, Marcus Denker<br>
-	<i class="fa fa-book"></i> IEEE Working Conference on Software Visualization <br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>  
-3. **Identifying equivalent objects to reduce memory consumption** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Alejandro Infante, Juan Pablo Sandoval and Alexandre Bergel<br>
-	<i class="fa fa-book"></i> International Workshop on Smalltalk<br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br>  
+* **Performance Evolution Blueprint: Understanding the Impact of Software Evolution on Performance.** <font size="3"> Juan Pablo Sandoval A, Alexandre Bergel, Sthepanie Ducasse, Marcus Denker.<u> IEEE Working Conference on Software Visualization </u> (<a href="">url</a>, <a href="">bib</a>).</font> 
+  
+* **Identifying equivalent objects to reduce memory consumption.** <font size="3"> Alejandro Infante, Juan Pablo Sandoval and Alexandre Bergel. <u> International Workshop on Smalltalk</u> (<a href="">url</a>, <a href="">bib</a>).</font> 
 
 ## 2012
-2. **The Hidden Face of Execution Sampling** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Alexandre Bergel, Vanessa Pena, Juan Pablo Sandoval<br>
-	<i class="fa fa-book"></i> Smalltalk Direction Workshop - Collocated with STIC'12<br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br> 
-1. **Debugging performance failures** <br>
-  <font size="3"> 
-	<i class="fa fa-user-friends"></i>
-	Juan Pablo Sandoval, Alexandre Bergel<br>
-	<i class="fa fa-book"></i> Workshop on Dynamic Languages and Applications. Collocated with ECOOP'12<br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [URL]() <br> 
+* **The Hidden Face of Execution Sampling.** <font size="3"> Alexandre Bergel, Vanessa Pena, Juan Pablo Sandoval Alcocer. <u> Smalltalk Direction Workshop - Collocated with STIC'12</u> (<a href="">url</a>, <a href="">bib</a>).</font> 
+
+* **Debugging performance failures.** <font size="3"> Juan Pablo Sandoval, Alexandre Bergel. <u> Workshop on Dynamic Languages and Applications. Collocated with ECOOP'12</u>(<a href="">url</a>, <a href="">bib</a>).</font> 
