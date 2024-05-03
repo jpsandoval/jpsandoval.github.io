@@ -15,6 +15,6 @@ redirect_from:
 * **Best Paper Award** -- Reducing Waste in Expandable Collections: The Pharo Case -- _IWST 2014_
 
 ## Grants
-* Grant -- Mobile Accessibility Testing -- _Open Seed Funds 2023_
-* Grant -- MAGNET: Making Automatically Generated Test Human-Friendly -- _ANID Fondecyt Iniciación 2022_
-* Grant -- Oculus Project 2021 -- Centro de Ciencias Exactas e Ingeniería - _UCB Cochabamba_
+* **Mobile Accessibility Testing** -- _Open Seed Funds 2023_
+* **MAGNET: Making Automatically Generated Test Human-Friendly** -- _ANID Fondecyt Iniciación 2022_
+* **Oculus Project** -- Centro de Ciencias Exactas e Ingeniería - _UCB Cochabamba 2021_
