@@ -100,15 +100,14 @@ author_profile: true
 	<u> IEEE Working Conference on Software Visualization (Tool/NIER Track) </u>(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
 
-*  **Visualizing Memory Consumption with Vismep.** <br>
+*  **Visualizing Memory Consumption with Vismep.**
   <font size="3"> 
 	Alison Fernandez Blanco, Alexandre Bergel, Juan Pablo Sandoval Alcocer and Araceli Queirolo Cordova.
 	<u> IEEE Working Conference on Software Visualization (Research Track) </u>
   (<a href="">url</a>, <a href="">bib</a>).
 	</font> 
 
-*  **Software Visualizations to Analyze Memory Consumption: A Literature Review.**
-<font size="3">
+*  **Software Visualizations to Analyze Memory Consumption: A Literature Review.** <font size="3">
   Alison Fernandez Blanco, Alexandre Bergel, Juan Pablo Sandoval Alcocer.
   <u> ACM Computing Surveys </u>
   (<a href="">url</a>, <a href="">bib</a>).
@@ -116,10 +115,10 @@ author_profile: true
           
 ## 2021
 * **How Do Developers Use the Java Stream API?**
-<font size="3">
-Joshua Nostas, Juan Pablo Sandoval Alcocer, Diego Elias Costa, Alexandre Bergel.
-<u> International Conference on Computational Science and its Applications (<a href="">url</a>, <a href="">bib</a>).
-</font>
+  <font size="3">
+  Joshua Nostas, Juan Pablo Sandoval Alcocer, Diego Elias Costa, Alexandre Bergel.
+  <u> International Conference on Computational Science and its Applications</u> (<a href="">url</a>, <a href="">bib</a>).
+  </font>
 
 *  **Quality Histories of Past Extract Method Refactorings.**
   <font size="3"> 
