@@ -45,31 +45,30 @@ author_profile: true
 * **An Eye-Tracking Study on the Use of Split/Unified Code Change Views for Bug Detection.**
 	<font size="3"> 
 	Juan Pablo Sandoval Alcocer, Alejandra Cossio-Chavalier, Tiara Rojas Stambuk, Leonel Merino.
-	<u> IEEE Access</u>
-	(<a href="">url</a>, <a href="">bib</a>).
+	<u> IEEE Access</u> (<a href="">url</a>, <a href="">bib</a>).
   </font>
 
-*  **Visualizing Code Dependencies in AR.**
+* **Visualizing Code Dependencies in AR.**
 	<font size="3">
 	Dussan Freire-Pozo, Kevin Cespedes-Arancibia, Leonel Merino, Alison Fernandez-Blanco, Andres Neyem and Juan Pablo Sandoval Alcocer.
 	<u> IEEE International Conference on Software Visualization (Tool/NIER Track)</u>(<a href="">url</a>, <a href="">bib</a>).
   </font>
 
-*  **A manual categorization of new quality issues on automatically-generated tests.**
+* **A manual categorization of new quality issues on automatically-generated tests.**
 	<font size="3"> 
-	Geraldine Galindo-Gutierrez, Maximiliano Narea Carvajal, Alison Fernandez Blanco, Nicolas Anquetil, Juan Pablo Sandoval Alcocer.>
+	Geraldine Galindo-Gutierrez, Maximiliano Narea Carvajal, Alison Fernandez Blanco, Nicolas Anquetil, Juan Pablo Sandoval Alcocer.
 	<u>IEEE International Conference on Software Maintenance and Evolution (Research Track)</u>
   (<a href="">url</a>, <a href="">bib</a>).
 	</font> 
 
-*  **Testing in Pharo [Book]**
+* **Testing in Pharo [Book]**
 	<font size="3"> 
 	Stéphane Ducasse, Guillermo Polito, Juan-Pablo Sandoval.
 	<u> Pharo Books </u>
   (<a href="">url</a>, <a href="">bib</a>).
 	</font> 
 
-*  **An Empirical Study of Mobile Code Offloading in Unpredictable Environments.**
+* **An Empirical Study of Mobile Code Offloading in Unpredictable Environments.**
   <font size="3"> 
 	Pablo Sanabria, Andres Neyem, Juan Pablo Sandoval Alcocer, Alison Fernandez-Blanco.
 	<u> IEEE Access</u>
@@ -77,7 +76,7 @@ author_profile: true
 	</font> 
 
 ## 2022
-*  **Introduction to Special Issue on Visualization Applied to Software Engineering.**
+* **Introduction to Special Issue on Visualization Applied to Software Engineering.**
   <font size="3"> 
 	Paul Leger, Alexandre Bergel, Juan Pablo Sandoval, Leonel Merino.
 	<u> Information and Software Technology</u>
