@@ -7,46 +7,50 @@ author_profile: true
 
 ## 2024
 
-* **Towards an AI Knowledge Assistant for Context-aware Learning Experiences in Software Capstone Project Development**
-	<i class="fa fa-user-friends"></i>
+* **Towards an AI Knowledge Assistant for Context-aware Learning Experiences in Software Capstone Project Development** 
+	<font size="3"> 
+  <i class="fa fa-user-friends"></i>
 	Andres Neyem , Luis A. Gonzalez , Marcelo Mendoza , Juan Pablo Sandoval Alcocer, Leonardo Centellas and Carlos Paredes<br>
 	<i class="fa fa-book"></i> IEEE Transactions on Learning Technologies.
 	<i class="fa fa-file-archive"></i> [URL]() 
   <i class="fa fa-file-export"></i> [bib]()
-  
+  </font>
 
-* **On the Use of Statistical Machine Translation for Suggesting Variable Names for Decompiled Code: The Pharo Case** <br>
+* **On the Use of Statistical Machine Translation for Suggesting Variable Names for Decompiled Code: The Pharo Case**
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Juan Pablo Sandoval Alcocer, Harold Camacho-Jaimes, Geraldine Galindo-Gutierrez, Andrés Neyem, Alexandre Bergel and Stephane Ducasse<br>
-	<i class="fa fa-book"></i> Journal of Computer Languages<br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [Pre-print]() <br> 
+	<i class="fa fa-book"></i> Journal of Computer Languages.
+	<i class="fa fa-file-archive"></i> [URL]() 
+  <i class="fa fa-file-export"></i> [bib]() 
+  </font> 
 
-* **Asking and Answering Questions During Memory Behavior Analysis** <br>
+* **Asking and Answering Questions During Memory Behavior Analysis**
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alison Fernandez Blanco, Araceli Queriolo Co ́rdova, Alexandre Bergel and Juan Pablo Sandoval Alcocer<br>
 	<i class="fa fa-book"></i> IEEE Transactions on Software Engineering<br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [Pre-print]() <br> 
-
-* **Exploring the Impact of Generative AI for StandUp Report Recommendations in Software Capstone Project Development** <br>
+	<i class="fa fa-file-archive"></i> [URL]() 
+  <i class="fa fa-file-export"></i> [bib]() 
+  </font>
+* **Exploring the Impact of Generative AI for StandUp Report Recommendations in Software Capstone Project Development**
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Andres Neyem, Juan Pablo Sandoval, Marcelo Mendoza, Leonardo Centellas, Luis Armando Gonzalez, Carlos Paredes<br>
 	<i class="fa fa-book"></i> Technical Symposium on Computer Science Education<br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [Pre-print]() <br> 
+	<i class="fa fa-file-archive"></i> [URL]() 
+  <i class="fa fa-file-export"></i> [bib]() 
+  </font>
 
 ## 2023
-* **SmallEvoTest: Genetically Created Unit Tests for Smalltalk** <br>
+* **SmallEvoTest: Genetically Created Unit Tests for Smalltalk**
 	<font size="3"> 
 	<i class="fa fa-user-friends"></i>
 	Alexandre Bergel, Geraldine Galindo-Gutiérrez, Alison Fernandez-Blanco, Juan-Pablo Sandoval-Alcocer<br>
 	<i class="fa fa-book"></i> International Workshop on Smalltalk Technologies<br>
-	</font> 
-	<i class="fa fa-file-pdf"></i> [Pre-print]() <br> 
+	<i class="fa fa-file-archive"></i> [URL]() 
+  <i class="fa fa-file-export"></i> [bib]() 
+  </font>
 
 * **An Eye-Tracking Study on the Use of Split/Unified Code Change Views for Bug Detection** <br>
 	<font size="3"> 
