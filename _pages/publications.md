@@ -8,12 +8,13 @@ author_profile: true
 ## 2024
 
 * **Towards an AI Knowledge Assistant for Context-aware Learning Experiences in Software Capstone Project Development** <br>
-	<font size="3"> 
+	<font size="2"> 
 	<i class="fa fa-user-friends"></i>
 	Andres Neyem , Luis A. Gonzalez , Marcelo Mendoza , Juan Pablo Sandoval Alcocer, Leonardo Centellas and Carlos Paredes<br>
 	<i class="fa fa-book"></i> IEEE Transactions on Learning Technologies. <br>
-	</font> 
 	<i class="fa fa-file-pdf"></i> [Pre-print]() <br> 
+  </font> 
+	
 
 * **On the Use of Statistical Machine Translation for Suggesting Variable Names for Decompiled Code: The Pharo Case** <br>
 	<font size="3"> 
