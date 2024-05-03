@@ -100,32 +100,18 @@ author_profile: true
 	<u> IEEE Working Conference on Software Visualization (Tool/NIER Track) </u>(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
 
-*  **Visualizing Memory Consumption with Vismep.**
-  <font size="3"> 
+*  **Visualizing Memory Consumption with Vismep.** <font size="3">
 	Alison Fernandez Blanco, Alexandre Bergel, Juan Pablo Sandoval Alcocer and Araceli Queirolo Cordova.
 	<u> IEEE Working Conference on Software Visualization (Research Track) </u>
   (<a href="">url</a>, <a href="">bib</a>).
 	</font> 
 
-*  **Software Visualizations to Analyze Memory Consumption: A Literature Review.** <font size="3">
-  Alison Fernandez Blanco, Alexandre Bergel, Juan Pablo Sandoval Alcocer.
-  <u> ACM Computing Surveys </u>
-  (<a href="">url</a>, <a href="">bib</a>).
-  </font> 
+*  **Software Visualizations to Analyze Memory Consumption: A Literature Review.** <font size="3"> Alison Fernandez Blanco, Alexandre Bergel, Juan Pablo Sandoval Alcocer. <u> ACM Computing Surveys </u> (<a href="">url</a>, <a href="">bib</a>). </font>
           
 ## 2021
-* **How Do Developers Use the Java Stream API?**
-  <font size="3">
-  Joshua Nostas, Juan Pablo Sandoval Alcocer, Diego Elias Costa, Alexandre Bergel.
-  <u> International Conference on Computational Science and its Applications</u> (<a href="">url</a>, <a href="">bib</a>).
-  </font>
+* **How Do Developers Use the Java Stream API?** <font size="3">  Joshua Nostas, Juan Pablo Sandoval Alcocer, Diego Elias Costa, Alexandre Bergel. <u> International Conference on Computational Science and its Applications</u> (<a href="">url</a>, <a href="">bib</a>). </font>
 
-*  **Quality Histories of Past Extract Method Refactorings.**
-  <font size="3"> 
-	Abel Mamani Taqui, Juan Pablo Sandoval Alcocer, Geoffrey Hecht, Alexandre Bergel.
-	<u> International Conference on Computational Science and its Applications </u>
-	(<a href="">url</a>, <a href="">bib</a>).
-	</font> 
+*  **Quality Histories of Past Extract Method Refactorings.** <font size="3"> Abel Mamani Taqui, Juan Pablo Sandoval Alcocer, Geoffrey Hecht, Alexandre Bergel. <u> International Conference on Computational Science and its Applications </u> (<a href="">url</a>, <a href="">bib</a>). </font> 
        
 ## 2020
 * **TestEvoViz: Visual Introspection for Genetically-Based Test Coverage Evolution.**
