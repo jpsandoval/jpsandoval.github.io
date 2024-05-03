@@ -77,27 +77,26 @@ author_profile: true
 
 ## 2022
 * **Introduction to Special Issue on Visualization Applied to Software Engineering.**
-  <font size="3"> 
-	Paul Leger, Alexandre Bergel, Juan Pablo Sandoval, Leonel Merino.
+  <font size="3">
+  Paul Leger, Alexandre Bergel, Juan Pablo Sandoval Alcocer, Leonel Merino.
 	<u> Information and Software Technology</u>
   (<a href="">url</a>, <a href="">bib</a>).
-	</font> 
+	</font>
 
-*  **Transformation-based Refactorings: a First Analysis.**
-  <font size="3"> 
-	Nicolas Anquetil, Miguel Campero, Stephane Ducasse, Juan-Pablo Sandoval Alcocer and Pablo Tesone.
+* **Transformation-based Refactorings: a First Analysis.**
+  <font size="3">
+  Nicolas Anquetil, Miguel Campero, Stephane Ducasse, Juan Pablo Sandoval Alcocer and Pablo Tesone.
 	<u> International Workshop on Smalltalk Technologies</u>(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
 
-*  **TestEvoViz: Visualizing Genetically-Based Test Coverage Evolution.**
-  <font size="3"> 
-	Andreina Cota Vidaure, Evelyn Cusi Lopez, Juan Pablo Sandoval Alcocer, Alexandre Bergel.
+* **TestEvoViz: Visualizing Genetically-Based Test Coverage Evolution.**
+  <font size="3">
+  Andreina Cota Vidaure, Evelyn Cusi Lopez, Juan Pablo Sandoval Alcocer, Alexandre Bergel.
 	<u> Empirical Software Engineering</u>(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
 
-*  **Spike – A code editor plugin highlighting fine-grained changes.**
-  <font size="3"> 
-	Ronald Escobar, Juan Pablo Sandoval Alcocer,Hagen Tarner, Fabian Beck, Alexandre Bergel.
+* **Spike – A code editor plugin highlighting fine-grained changes.** <font size="3"> 
+* Ronald Escobar, Juan Pablo Sandoval Alcocer,Hagen Tarner, Fabian Beck, Alexandre Bergel.
 	<u> IEEE Working Conference on Software Visualization (Tool/NIER Track) </u>(<a href="">url</a>, <a href="">bib</a>).
 	</font> 
 
