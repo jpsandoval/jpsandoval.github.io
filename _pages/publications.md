@@ -7,6 +7,14 @@ author_profile: true
 
 ## 2024
 
+* **A Developer’s Guide to Building and Testing Accessible Mobile Apps.** 
+<font size="3"> 
+	Sandoval Alcocer, Juan Pablo and Merino, Leonel and Fernandez-Blanco, Alison and Ravelo-Mendez, William and Escobar-Velasquez, Camilo and Linares-Vasquez, Mario
+	<u>Tutorial - ACM International Conference on the Foundations of Software Engineering </u>
+	(<a href="https://dl.acm.org/doi/10.1145/3663529.3663821">url</a>, <a href="">bib</a>).
+  </font>
+
+
 * **Towards an AI Knowledge Assistant for Context-aware Learning Experiences in Software Capstone Project Development.** 
 	<font size="3"> 
 	Andres Neyem , Luis A. Gonzalez , Marcelo Mendoza , Juan Pablo Sandoval Alcocer, Leonardo Centellas and Carlos Paredes.
