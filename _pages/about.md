@@ -17,7 +17,7 @@ News
 ======
 
 - I have been invited to join the program committee of the 33rd IEEE/ACM International Conference on Program Comprehension (ICPC 2025).
-- I have been invited to join the program committee (Data and Tool Showcase Track) of the 22nd International Conference on Mining Software Repositories (MSER 2025).
+- I have been invited to join the program committee (Data and Tool Showcase Track) of the 22nd International Conference on Mining Software Repositories (MSR 2025).
 
 - I have been invited to join the program committee (Tool Demo Track) of the International Conference on Software Maintenance and Evolution (ICSME 2024).
 
