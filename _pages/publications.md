@@ -5,7 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
+## 2025
+* **Exploring the Adaptability and Usefulness of Git-Truck for Assessing Software Capstone Project Development**
+  <font size="3">  Andres Neyem, Jose Carrasco, Alison Fernandez-Blanco, Juan Pablo Sandoval Alcocer
+	<u>Technical Symposium on Computer Science Education (SIGCSE TS 2025)</u>
+	(<a>url</a>, <a href="">bib</a>).
+  </font>
+
+
 ## 2024
+
+* **MethodProxies: A Safe and Fast Message-Passing Control Library**
+  <font size="3"> 
+	Sebastian Jordan Montaño, Juan Pablo Sandoval Alcocer, Guillermo Polito, Stéphane Ducasse, Pablo Tesone
+	<u>International Workshop on Smalltalk Technologies (IWST 2024)</u>
+	(<a href="https://hal.science/hal-04708729v1/file/main.pdf">url</a>, <a href="">bib</a>).
+  </font>
 
 * **A Developer’s Guide to Building and Testing Accessible Mobile Apps.**
   <font size="3"> 
