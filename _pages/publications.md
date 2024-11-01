@@ -8,6 +8,20 @@ author_profile: true
 
 
 ## 2025
+
+* **Increasing the Effectiveness of Automatically Generated Tests by Improving Class Observability**
+  <font size="3">Geraldine Galindo-Gutierrez, Juan Pablo Sandoval Alcocer, Nicolas Jimenez-Fuentes, Alexandre Bergel, Gordon Fraser.
+	<u>47th IEEE/ACM International Conference on Software Engineering (ICSE 2025)</u>
+	(<a>url</a>, <a href="">bib</a>).
+  </font>
+
+* **Enhancing Commit Message Quality in Software Capstone Projects with Generative AI**
+  <font size="3">Andres Neyem, Agustin Rios, Kevin Cespedes-Arancibia, Juan Pablo Sandoval Alcocer, Marcelo Mendoza.
+	<u>SoftwareX journal</u>
+	(<a>url</a>, <a href="">bib</a>).
+  </font>
+
+
 * **Exploring the Adaptability and Usefulness of Git-Truck for Assessing Software Capstone Project Development**
   <font size="3">  Andres Neyem, Jose Carrasco, Alison Fernandez-Blanco, Juan Pablo Sandoval Alcocer
 	<u>Technical Symposium on Computer Science Education (SIGCSE TS 2025)</u>
