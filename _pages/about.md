@@ -15,6 +15,7 @@ I am always on the lookout for potential PhD and Master students. No topic is de
 
 News
 ======
+- Our paper "Increasing the Effectiveness of Automatically Generated Tests by Improving Class Observability" has won an ACM SIGSOFT Distinguished Paper Award! - ICSE 2025.
 - Our paper "Increasing the Effectiveness of Automatically Generated Tests by Improving Class Observability" has been accepted in the main track of ICSE 2025.
 - I have been invited to join the program committee (ERA Track) of the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2025).
 - I have been invited to join the program committee of the 33rd IEEE/ACM International Conference on Program Comprehension (ICPC 2025).

@@ -9,7 +9,10 @@ redirect_from:
 
 ## Awards
 
+* **ACM SIGSOFT Distinguished Paper Award** -- Increasing the Effectiveness of Automatically Generated Tests by Improving Class Observability -- ACM SIGSOFT Distinguished Paper Award (ICSE 2025)_
+  
 * **Best Paper Award (Third Place)** -- MethodProxies: A Safe and Fast Message-Passing Control Library -- _International Workshop on Smalltalk Technologies (IWST 2024)_
+  
 * **Most Influential Paper Award** -- Performance Evolution Blueprint:  Understanding the Impact of Software Evolution on Performance -- _IEEE VISSOFT 2023_
 * **Distinguished Researcher Award** - _Univesidad Catolica de Bolivia 2021 - Cochabamba_
 * **Best Paper Award** -- Performance Evolution Matrix:  Visualizing Performance Variations along Software Versions -- _IEEE VISSOFT 2019_
