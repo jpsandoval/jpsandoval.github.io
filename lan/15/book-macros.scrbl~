@@ -1,0 +1,430 @@
+#lang scribble/manual
+
+@require[scribble/core]
+
+@title{Foundations on Programming Language - Lecture Notes}
+@author{JPS}
+
+@table-of-contents[]
+
+
+This text book have a set of exercises and test to learn scheme and programming languages.
+
+
+@section{Part II: Mutable Data Structures}
+
+@subsection{Enviroment, Store, and Utility Functions}
+
+
+@codeblock|{
+
+;; Values
+(define-type Value
+  [numV (n number?)]
+  [closureV (id symbol?) (body Exp?) (env Env?)]
+  [boxV (location number?)])
+
+;; Environment
+(define (Any? v) #t)
+(define-type Env
+  [empty-env]
+  [extended-env (id symbol?) (val number?) (env Env?)])
+
+(define (env-lookup x env)
+  (match env
+    [(empty-env) (error 'env-lookup "not found: ~a" x)]
+    [(extended-env id val sub-env)
+     (if (symbol=? id x)
+         val
+         (env-lookup x sub-env))]))
+;; Store
+(define-type Store
+  [empty-str]
+  [extended-str (id number?) (val Value?) (env Store?)])
+
+(define (str-lookup x env)
+  (match env
+    [(empty-str) (error 'env-lookup "not found: ~a" x)]
+    [(extended-str id val sub-str)
+     (if (= id x)
+         val
+         (str-lookup x sub-str))]))
+
+(define (next-location str)
+  (match str
+    [(empty-str) 0]
+    [(extended-str _ _ sub-str) (add1 (next-location sub-str))]))
+
+;; Value*Store
+(define-type Value*Store
+  [value-store (val Value?) (str Store?)])
+
+}|
+
+
+@subsection{Gramatica}
+Soportaremos la misma gramática, implementando with como azucar sintactico.
+@codeblock|{
+#|
+Grammar for expressions:
+  <s-expr> ::= <num>
+              | <sym>
+              | (list '+ <s-expr> <s-expr>)
+              | (list '- <s-expr> <s-expr>)
+              | (list 'if0 <s-expr> <s-expr> <s-expr>)
+              | (list 'with (list <sym> <s-expr>) <s-expr>)
+              | (list 'fun (list <sym>) <s-expr>)
+              | (list 'newbox <s-expr>)
+              | (list 'openbox <s-expr>)
+              | (list 'setbox <s-expr> <s-expr>)
+              | (list 'seqn <s-expr> <s-expr>)
+              | (list <s-expr> <s-expr>)
+|#
+}|
+
+@codeblock|{
+(define-type Exp
+  [num  (n number?)]
+  [plus (left Exp?) (right Exp?)]
+  [minus (left Exp?) (right Exp?)]
+  [if0 (cond Exp?) (etrue Exp?) (efalse Exp?)]
+  [id  (s symbol?)]
+  [fun (sym-arg symbol?) (body Exp?)]
+  [call (cls-exp Exp?) (arg-expr Exp?)]
+  [newbox (val Exp?)]
+  [openbox (box Exp?)]
+  [setbox (box Exp?) (val Exp?)]
+  [seqn (e1 Exp?) (e2 Exp?)])
+}|
+
+@subsection{Parser}
+El parser es un mapeo directo.
+@codeblock|{
+(define (parse s-expr)
+  (match s-expr
+    [(? number?) (num s-expr)]
+    [(? symbol?) (id s-expr)]
+    [(list '+ l r) (plus (parse l) (parse r))]
+    [(list '- l r) (minus (parse l) (parse r))]
+    [(list 'if0 c t f) (if0 (parse c) (parse t) (parse f))]
+    [(list 'newbox e) (newbox (parse e))]
+    [(list 'openbox e) (openbox (parse e))]
+    [(list 'setbox e1 e2) (setbox (parse e1) (parse e2))]
+    [(list 'begin e1 e2) (seqn (parse e1) (parse e2))]
+    [(list 'with (list sym se) be) (call (fun sym (parse be)) (parse se))]
+    [(list 'fun (list sym-arg) be) (fun sym-arg (parse be))]
+    [(list cls-exp arg-exp) (call (parse cls-exp) (parse arg-exp))]
+    [else (error 'parse "syntax error")]))
+
+}|
+@subsection{Circular Interpreter}
+En este ejemplo nuestro interprete recibira una expresion en nuestro lenguaje y devolvera un valor en scheme.
+En este ejemplo, para representar las funciones, utilizaremos al lambda de scheme.
+
+
+@subsection{Interpretation}
+
+@codeblock|{
+;; sum values
+(define (num+ numberV1 numberV2)
+  (numV (+ (numV-n numberV1) (numV-n numberV2))))
+
+;; subs values
+(define (num- n1 n2)
+  (numV (- (numV-n n1) (numV-n n2))))
+;; num-zero? a value
+(define (num-zero? n)
+  (zero? (numV-n n)))
+}|     
+@codeblock|{
+;; intepr (Exp x Env) --> Value*Store
+(define (interp expr env str)
+  (match expr
+    [(num n) (value-store (numV n) str)]
+    [(id s)  (value-store (str-lookup (env-lookup s env) str) str)]
+    [(fun sym-arg fun-body) (value-store (closureV sym-arg fun-body env) str)]
+    
+    [(plus l r)
+     (match (interp l env str)
+       [(value-store l-val l-str)
+        (match (interp r env l-str)
+          [(value-store r-val r-str)
+           (value-store (num+ l-val r-val) r-str)])])]
+    
+    [(minus l r)
+     (match (interp l env str)
+       [(value-store l-val l-str)
+        (match (interp r env l-str)
+          [(value-store r-val r-str)
+           (value-store (num- l-val r-val) r-str)])])]
+    
+    [(if0 c t f)
+     (match (interp c env str)
+       [(value-store c-val c-str)
+        (if (num-zero? c-val)
+            (interp t env c-str)
+            (interp f env c-str))])]
+
+    [(call cls-exp arg-exp)
+     (match (interp arg-exp env str)
+       [(value-store arg-val arg-str)
+        (match (interp cls-exp env arg-str)
+          [(value-store (closureV param body fenv) fun-str)
+           (define new-loc (next-location fun-str))
+           (interp body
+                   (extended-env param new-loc fenv)
+                   (extended-str new-loc arg-val fun-str))])])]
+    
+    [(newbox val-expr)
+     (match (interp val-expr env str)
+       [(value-store val-val val-str)
+        (define new-loc (next-location val-str))
+        (value-store (boxV new-loc)
+                     (extended-str new-loc val-val val-str))])]
+
+    [(openbox box-expr)
+     (match (interp box-expr env str)
+       [(value-store (boxV loc) b-str)
+        (value-store (str-lookup loc b-str) b-str)])]
+
+    [(setbox box-expr val-expr)
+     (match (interp box-expr env str)
+       [(value-store (boxV loc) b-str)
+        (match (interp val-expr env b-str)
+          [(value-store val-val val-str)
+           (value-store val-val
+                        (extended-str loc val-val val-str))])])]
+
+    [(seqn e1 e2)
+     (match (interp e1 env str)
+       [(value-store _ s1)
+        (interp e2 env s1)])]))
+}|
+
+@subsection{Testing}
+Todo empieza con un enviroment vacio.
+@codeblock|{
+(define (run prog)
+  (match (interp (parse prog) (empty-env) (empty-str))
+    [(value-store (numV n) s) n]
+    [(value-store (and b (boxV _)) s) b]
+    [(value-store (and f (closureV id body env)) s) f]))
+}|
+
+@codeblock|{
+(run '{with {x {newbox 2}}
+        {begin
+          {setbox x 3}
+          {openbox x}}})
+}|
+
+
+@section{Macros en Racket: Teoría y Ejemplos}
+
+Las macros en Racket son una herramienta poderosa que permite definir nuevas construcciones de lenguaje, controlar el flujo de evaluación, y evitar la repetición de patrones de código. A diferencia de las funciones, las macros operan en el código fuente antes de su evaluación, lo que permite modificar y generar código dinámicamente.
+
+@subsection{¿Por qué macros?}
+
+Imagina que quieres ejecutar un bloque de código sólo si se cumple una condición. Puedes usar una función como esta:
+
+@racketblock[
+(define (when1 condition body)
+  (cond [condition (begin body)]))
+(when1 (< 1 0) (displayln "Esto NO debería imprimirse"))
+]
+
+Este ejemplo falla porque @racket[body] se evalúa antes de entrar a la función, lo que puede provocar efectos secundarios no deseados.
+
+@subsection{Usando macros correctamente}
+
+Con macros, podemos controlar exactamente cuándo y si se evalúa el cuerpo:
+
+@racketblock[
+(define-syntax when2
+  (syntax-rules ()
+    [(when condition body)
+     (cond [condition body])]))
+(when2 (< 1 0) (displayln "Esto NO debería imprimirse"))
+]
+
+
+@subsection{Intercambio de variables: @racket[swap!]}
+
+Cuando intentamos intercambiar dos variables usando una función, no funciona como esperamos porque las funciones en Racket no pueden modificar variables externas directamente.
+
+@bold{Versión incorrecta con función:}
+@racketblock[
+(define (swap-fn x y)
+  (let ([tmp x])
+    (set! x y)
+    (set! y tmp)))
+
+(define a 1)
+(define b 2)
+(swap-fn a b)
+(displayln a) ; → sigue siendo 1
+(displayln b) ; → sigue siendo 2
+]
+
+@italic{La función no modifica los valores originales de @racket[a] y @racket[b], solo modifica copias locales.}
+
+@bold{Versión correcta con macro:}
+@racketblock[
+(define-syntax swap!
+  (syntax-rules ()
+    [(swap! x y)
+     (let ([tmp x])
+       (set! x y)
+       (set! y tmp))]))
+
+(define x 1)
+(define y 2)
+(swap! x y)
+(displayln x) ; → 2
+(displayln y) ; → 1
+]
+
+@italic{La macro reescribe el código para operar directamente sobre las variables originales.}
+
+
+@bold{Versión incorrecta con función:}
+@racketblock[
+(define (swap-fn x y)
+  (let ([tmp x])
+    (set! x y)
+    (set! y tmp)))
+]
+
+Esto no intercambia los valores reales de @racket[x] y @racket[y].
+
+@bold{Versión correcta con macro:}
+@racketblock[
+(define-syntax swap!
+  (syntax-rules ()
+    [(swap! x y)
+     (let ([tmp x])
+       (set! x y)
+       (set! y tmp))]))
+]
+
+@subsection{Bucles con macros: @racket[do-times]}
+
+@racketblock[
+(define-syntax do-times
+  (syntax-rules ()
+    [(do-times n body ...)
+     (let loop ([i 0])
+       (when (< i n)
+         body ...
+         (loop (+ i 1))))]))
+(do-times 3
+  (displayln "Hola"))
+]
+
+@subsection{Control de flujo y verificación: @racket[assert]}
+
+@racketblock[
+(define-syntax assert
+  (syntax-rules ()
+    [(assert test)
+     (unless test
+       (display "Fallo en la aserción"))]))
+(assert (= 5 5)) ; OK
+(assert (= 5 0)) ; Muestra: "Fallo en la aserción"
+]
+
+@subsection{Bucles tipo @racket[for]: inyección de variables}
+
+Una macro que inyecta una variable implícita @racket[it]:
+
+@racketblock[
+(define-syntax (for2 stx)
+  (syntax-case stx (from to in)
+    [(for2 from low to high in body ...)
+     (with-syntax ([it (datum->syntax stx 'it)])
+       #'(let ([low-val low]
+               [high-val high])
+           (let loop ([it low-val])
+             (when (<= it high-val)
+               body ...
+               (loop (add1 it))))))]))
+(for2 from 2 to 5 in (displayln it))
+]
+
+Este tipo de macros ilustran cómo se puede romper o controlar la higiene de variables de forma intencional.
+
+
+@subsection{Macros de Bucle: @racket[for0] y @racket[for1]}
+
+Crear estructuras de bucle personalizadas en Racket es un uso típico de las macros. Aquí veremos dos versiones: una que deja que el usuario nombre la variable del bucle, y otra que intenta inyectar una variable por defecto (@racket[it]).
+
+@bold{Versión @racket[for0] — El usuario nombra la variable}
+
+@racketblock[
+(define-syntax for0
+  (syntax-rules (from to in)
+    [(for0 var from low to high in body ...)
+     (let ([low-val low]
+           [high-val high])
+       (let loop ([var low-val])
+         (when (<= var high-val)
+           body ...
+           (loop (add1 var)))))]))
+
+(for0 i from 2 to 5 in 
+  (for0 j from 1 to 3 in  
+    (printf "~a ~a~n" i j)))
+]
+
+@italic{Ventaja:} El usuario elige el nombre de la variable, lo cual es claro y flexible.  
+@italic{Desventaja:} La sintaxis es un poco más cargada.
+
+@bold{Versión @racket[for1] — Intenta inyectar @racket[it] automáticamente (pero falla)}
+
+@racketblock[
+(define-syntax (for1 stx)
+  (syntax-case stx (from to in)
+    [(for1 from low to high in body ...)
+     (with-syntax ([it (datum->syntax #'from 'it)])
+       #'(let ([low-val low]
+               [high-val high])
+           (let loop ([it low-val])
+             (when (<= it high-val)
+               body ...
+               (loop (add1 it))))))]))
+
+;; Esto genera error:
+;; (for1 from 2 to 5 in (displayln it))
+]
+
+@italic{Problema:} Aunque la macro define una variable llamada @racket[it], el código del usuario no puede verla debido a las reglas de higiene léxica.
+
+@bold{Solución mejorada:} Si realmente queremos inyectar @racket[it], debemos usar el alcance correcto:
+
+@racketblock[
+(define-syntax (for2 stx)
+  (syntax-case stx (from to in)
+    [(for2 from low to high in body ...)
+     (with-syntax ([it (datum->syntax stx 'it)])
+       #'(let ([low-val low]
+               [high-val high])
+           (let loop ([it low-val])
+             (when (<= it high-val)
+               body ...
+               (loop (add1 it))))))]))
+
+(for2 from 2 to 4 in (displayln it))
+]
+
+@italic{Conclusión:} Aunque es tentador inyectar nombres mágicos como @racket[it], en general es mejor permitir que el usuario elija los nombres. Esto mantiene el código más claro, flexible y menos propenso a errores de higiene.
+
+
+@subsection{Resumen}
+
+Las macros te permiten:
+@itemlist[
+@item{Crear nuevas formas de control de flujo}
+@item{Evitar evaluación innecesaria}
+@item{Modificar el lenguaje a tus necesidades}
+@item{Generar estructuras repetitivas de forma segura y expresiva}
+]
