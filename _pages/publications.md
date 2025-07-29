@@ -9,6 +9,19 @@ author_profile: true
 
 ## 2025
 
+
+* **Visualizing The Linux Kernel Performance with FlameGraph AR (Visualization Challengue)**
+  <font size="3">Tiara Rojas-Stambuk, Luis Fernando Gil-Gareca, Juan Pablo Sandoval Alcocer, Leonel Merino, David Moreno-Lumbreras
+	<u>13th IEEE Working Conference on Software Visualization (VISSOFT 2025)</u>
+	(<a>url</a>, <a href="">bib</a>).
+  </font>
+
+* **FlameGraph AR: Immersive Visualization of CPU Profiles in Augmented Reality (Poster)**
+  <font size="3">Tiara Rojas-Stambuk, Luis Fernando Gil-Gareca, Juan Pablo Sandoval Alcocer, Leonel Merino, David Moreno-Lumbreras
+	<u>13th IEEE Working Conference on Software Visualization (VISSOFT 2025)</u>
+	(<a>url</a>, <a href="">bib</a>).
+  </font>
+
 * **Increasing the Effectiveness of Automatically Generated Tests by Improving Class Observability**
   <font size="3">Geraldine Galindo-Gutierrez, Juan Pablo Sandoval Alcocer, Nicolas Jimenez-Fuentes, Alexandre Bergel, Gordon Fraser.
 	<u>47th IEEE/ACM International Conference on Software Engineering (ICSE 2025)</u>
