@@ -9,8 +9,7 @@ author_profile: true
 
 ## 2025
 
-* ** Assessing Automatically-Generated Tests Code
-Quality: Beyond Traditional Test Smells**
+* **Assessing Automatically-Generated Tests Code Quality: Beyond Traditional Test Smells**
   <font size="3"> Juan Pablo Sandoval Alcocer, Maximiliano Narea-Carvajal, Geraldine Galindo-Gutierrez, Alison Fernandez-Blanco, Andres Neyem, Nicolas Anquetil.
 	<u>Empirical Software Engineering (just accepted)</u>
 	(<a>url</a>, <a href="">bib</a>).
