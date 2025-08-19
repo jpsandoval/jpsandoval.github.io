@@ -9,6 +9,12 @@ author_profile: true
 
 ## 2025
 
+* ** Assessing Automatically-Generated Tests Code
+Quality: Beyond Traditional Test Smells**
+  <font size="3"> Juan Pablo Sandoval Alcocer, Maximiliano Narea-Carvajal, Geraldine Galindo-Gutierrez, Alison Fernandez-Blanco, Andres Neyem, Nicolas Anquetil.
+	<u>Empirical Software Engineering (just accepted)</u>
+	(<a>url</a>, <a href="">bib</a>).
+  </font>
 
 * **Visualizing The Linux Kernel Performance with FlameGraph AR (Visualization Challengue)**
   <font size="3">Tiara Rojas-Stambuk, Luis Fernando Gil-Gareca, Juan Pablo Sandoval Alcocer, Leonel Merino, David Moreno-Lumbreras
