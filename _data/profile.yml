@@ -22,17 +22,28 @@ orcid: 0000-0002-8335-4351
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  <strong>Juan P. Sandoval</strong> is an assistant professor at
-  Pontificia Universidad Católica de Chile and part of the
-  <em>Software Engineering &amp; Intelligent Systems</em> laboratory.
+  I’m <strong>Juan P. Sandoval</strong>, assistant professor and head of
+  <strong>SE² — Software Engineering Research Group II</strong> at the
+  <em>Department of Computer Science (DCC)</em>,
+  <strong>Pontificia Universidad Católica de Chile</strong>.
+  My research focuses on <strong>software engineering</strong> — I love building
+  tools that help developers understand, test, and evolve complex systems.
+  Recently, I’ve been exploring automated code generation, software mining
+  repositories, and AI-driven approaches for software testing and maintenance.  </p>
+
+  <p>
+    SE² is part of the
+    <strong>Software Engineering &amp; Intelligent Systems Lab (SEIS Lab)</strong>.
   </p>
 
-  <h2>Do you want to join our lab?</h2>
+  <h2>Join SE²</h2>
   <p>
-    I am always on the lookout for potential PhD and Master students.
-    No topic is defined upfront — we define it together.
-    If you are interested, <b>please drop me a line</b>.
+    I’m always looking for motivated Master’s and PhD students to join our group.
+    We define research topics together — if you’re interested in empirical software engineering,
+    AI-driven development, or automated testing,
+    <a href="https://jpsandoval.github.io/cv/">drop me a line</a> 🚀
   </p>
+
 
 
 portrait_url: /assets/images/photos/profile.png
