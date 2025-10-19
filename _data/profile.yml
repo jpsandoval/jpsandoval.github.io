@@ -30,21 +30,16 @@ short_bio: >-
   tools that help developers understand, test, and evolve complex systems.
   Recently, I’ve been exploring automated code generation, software mining
   repositories, and AI-driven approaches for software testing and maintenance.  </p>
-
   <p>
-    SE² is part of the
-    <strong>Software Engineering &amp; Intelligent Systems Lab (SEIS Lab)</strong>.
-  </p>
-
-  <b>Join SE²</b>
-  <p>
-    I’m always looking for motivated Master’s and PhD students to join our group.
+    <b>Join SE²</b> I’m always looking for motivated Master’s and PhD students to join our group.
     We define research topics together — if you’re interested in empirical software engineering,
     AI-driven development, or automated testing,
     <a href="https://jpsandoval.github.io/cv/">drop me a line</a> 🚀
   </p>
-
-
+  <p>
+    SE² is part of the
+    <strong>Software Engineering &amp; Intelligent Systems Lab (SEIS Lab)</strong>.
+  </p>
 
 portrait_url: /assets/images/photos/profile.png
 portrait_caption: >-
@@ -116,3 +111,12 @@ awards:
   date: 2009
 - name: Diploma a la Excelencia Académica — Carrera Ingeniería de Sistemas, Universidad Mayor de San Simón, Bolivia
   date: 2006
+
+
+awards:
+- name: Mobile Accessibility Testing
+  agency: _Open Seed Funds 2023, Escuela de Ingeniería, UC
+- name: MAGNET: Making Automatically Generated Test Human-Friendly
+  agency: ANID Fondecyt Iniciación 2022
+- name: Oculus Project
+  agency: Centro de Ciencias Exactas e Ingeniería, UCB Cochabamba 2021
