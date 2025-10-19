@@ -36,7 +36,7 @@ short_bio: >-
     <strong>Software Engineering &amp; Intelligent Systems Lab (SEIS Lab)</strong>.
   </p>
 
-  <h3>Join SE²</h3>
+  <b>Join SE²</b>
   <p>
     I’m always looking for motivated Master’s and PhD students to join our group.
     We define research topics together — if you’re interested in empirical software engineering,
@@ -64,6 +64,10 @@ education:
   date: 2005 - 2010
 
 experience:
+ - name: Pontificia Universidad Católica de Chile
+   logo: /assets/images/badges/PKU_red.png
+   position: Asistant Professor
+   date: 2022 - Current
  - name: Universidad Católica Boliviana San Pablo
    logo: /assets/images/badges/PKU_red.png
    position: Docente Investigador Tiempo Completo
@@ -72,11 +76,11 @@ experience:
    logo: /assets/images/badges/PKU_red.png
    position: Postdoctoral Researcher
    date: 2017
- - name: University of Stuttgart's Visualisation Research Centre (VISUS) 
+ - name: University of Stuttgart's <br/> Visualisation Research Centre (VISUS) 
    logo: /assets/images/badges/PKU_red.png
    position: Research Visitor
    date: 2016
- - name: INRIA - Lille
+ - name: INRIA - Lille <br/> RMoD Team
    logo: /assets/images/badges/PKU_red.png
    position: Research Intern
    date: 2012
