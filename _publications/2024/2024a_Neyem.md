@@ -4,7 +4,7 @@ date:           2024-01-01 00:01:00 -0300
 selected:       true
 pub:            "IEEE Transactions on Learning Technologies"
 pub_date:       "2024"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Q1</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">IEEE TLT</span>'
 abstract: >-
   Introduces an AI knowledge assistant that augments LLMs with a course‑specific knowledge base to deliver context‑aware recommendations in software capstone projects; reports improved support for students.
 authors:
