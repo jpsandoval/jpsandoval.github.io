@@ -1,6 +1,6 @@
 primary_name: "Juan Pablo Sandoval Alcocer"
 secondary_name: ""
-navbar_name: "Juan Pablo Sandoval"
+navbar_name: "Juan Pablo Sandoval Alcocer"
 
 positions:
 - logo: /assets/images/badges/UC_Chile_circle.png  # Logo is optional
@@ -8,7 +8,7 @@ positions:
 - name: Assistant Professor
 
 
-email: "your@email.com"
+email: "jpsandoval@uc.cl"
 # cv_link: link-to-your-cv-file
 gscholar: hXSNrdcAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: jpsandoval
@@ -22,13 +22,18 @@ orcid: 0000-0002-8335-4351
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+  <strong>Juan P. Sandoval</strong> is an assistant professor at
+  Pontificia Universidad Católica de Chile and part of the
+  <em>Software Engineering &amp; Intelligent Systems</em> laboratory.
   </p>
+
+  <h2>Do you want to join our lab?</h2>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I am always on the lookout for potential PhD and Master students.
+    No topic is defined upfront — we define it together.
+    If you are interested, <b>please drop me a line</b>.
   </p>
+
 
 portrait_url: /assets/images/photos/profile.png
 portrait_caption: >-
@@ -40,7 +45,6 @@ education:
   position: >- 
     PLEIAD laboratory  <br/>
     Computer Science Department (DCC)<br/>
-    Department of Electrical Engineering and Computer Science <br/>
     Ph.D. Student
   date: 2012 - 2016
 - name: Universidad Mayor de San Simón
