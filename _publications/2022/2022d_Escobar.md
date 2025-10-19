@@ -1,7 +1,7 @@
 ---
 title:          "Spike – A code editor plugin highlighting fine-grained changes"
 date:           2022-01-01 00:01:00 -0300
-selected:       true
+selected:       false
 pub:            "IEEE Working Conference on Software Visualization (VISSOFT 2022, Tool/NIER Track)"
 pub_date:       "2022"
 abstract: >-

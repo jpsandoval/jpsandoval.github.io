@@ -1,7 +1,7 @@
 ---
 title:          "An Eye-Tracking Study on the Use of Split/Unified Code Change Views for Bug Detection"
 date:           2023-01-01 00:01:00 -0300
-selected:       true
+selected:       false
 pub:            "IEEE Access"
 pub_date:       "2023"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Q2</span>'

@@ -1,7 +1,7 @@
 ---
 title:          "Reducing Resource Consumption of Expandable Collections: The Pharo Case"
 date:           2018-01-01 00:01:00 -0300
-selected:       true
+selected:       false
 pub:            "Science of Computer Programming"
 pub_date:       "2018"
 abstract: >-

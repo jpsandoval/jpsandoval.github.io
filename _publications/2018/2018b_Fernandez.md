@@ -1,7 +1,7 @@
 ---
 title:          "Effective Visualization of Object Allocation Sites"
 date:           2018-01-01 00:01:00 -0300
-selected:       true
+selected:       false
 pub:            "IEEE Working Conference on Software Visualization (VISSOFT 2018)"
 pub_date:       "2018"
 abstract: >-

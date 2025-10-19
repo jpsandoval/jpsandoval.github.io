@@ -1,7 +1,7 @@
 ---
 title:          "Exploring the Adaptability and Usefulness of Git-Truck for Assessing Software Capstone Project Development"
 date:           2025-01-01 00:01:00 -0300
-selected:       true
+selected:       false
 pub:            "Technical Symposium on Computer Science Education (SIGCSE TS 2025)"
 pub_date:       "2025"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Core A</span>'

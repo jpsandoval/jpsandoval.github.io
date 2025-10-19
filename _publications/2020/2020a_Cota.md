@@ -1,7 +1,7 @@
 ---
 title:          "TestEvoViz: Visual Introspection for Genetically-Based Test Coverage Evolution"
 date:           2020-01-01 00:01:00 -0300
-selected:       true
+selected:       false
 pub:            "IEEE Working Conference on Software Visualization (VISSOFT 2020)"
 pub_date:       "2020"
 abstract: >-

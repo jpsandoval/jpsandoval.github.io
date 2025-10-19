@@ -1,7 +1,7 @@
 ---
 title:          "Textual Source Code Comparison: Split or Unified?"
 date:           2020-01-01 00:01:00 -0300
-selected:       true
+selected:       false
 pub:            "International Workshop on New Interfaces for Programming (Onward! 2020)"
 pub_date:       "2020"
 abstract: >-

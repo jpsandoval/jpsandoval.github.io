@@ -1,7 +1,7 @@
 ---
 title:          "Deviation Testing: A Test Case Generation Technique for GraphQL APIs"
 date:           2018-01-01 00:01:00 -0300
-selected:       true
+selected:       false
 pub:            "International Workshop on Smalltalk Technologies (IWST 2018)"
 pub_date:       "2018"
 abstract: >-

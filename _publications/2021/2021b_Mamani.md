@@ -1,7 +1,7 @@
 ---
 title:          "Quality Histories of Past Extract Method Refactorings"
 date:           2021-01-01 00:01:00 -0300
-selected:       true
+selected:       false
 pub:            "International Conference on Computational Science and its Applications (ICCSA 2021)"
 pub_date:       "2021"
 abstract: >-

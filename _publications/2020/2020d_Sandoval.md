@@ -1,7 +1,7 @@
 ---
 title:          "Prioritizing versions for performance regression testing: The Pharo case"
 date:           2020-01-01 00:01:00 -0300
-selected:       true
+selected:       false
 pub:            "Science of Computer Programming"
 pub_date:       "2020"
 abstract: >-

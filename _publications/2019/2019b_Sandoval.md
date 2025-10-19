@@ -1,7 +1,7 @@
 ---
 title:          "Enhancing Commit Graphs with Visual Runtime Clues"
 date:           2019-01-01 00:01:00 -0300
-selected:       true
+selected:       false
 pub:            "IEEE Working Conference on Software Visualization (VISSOFT 2019)"
 pub_date:       "2019"
 abstract: >-

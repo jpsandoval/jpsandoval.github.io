@@ -1,7 +1,7 @@
 ---
 title:          "Visualizing Code Dependencies in AR"
 date:           2023-01-01 00:01:00 -0300
-selected:       true
+selected:       false
 pub:            "IEEE International Conference on Software Visualization (VISSOFT 2023, Tool/NIER Track)"
 pub_date:       "2023"
 abstract: >-

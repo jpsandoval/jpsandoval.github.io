@@ -1,7 +1,7 @@
 ---
 title:          "Introduction to Special Issue on Visualization Applied to Software Engineering"
 date:           2022-01-01 00:01:00 -0300
-selected:       true
+selected:       false
 pub:            "Information and Software Technology"
 pub_date:       "2022"
 abstract: >-
