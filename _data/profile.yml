@@ -65,19 +65,19 @@ education:
 
 experience:
  - name: Universidad Católica Boliviana San Pablo
-   #logo: /assets/images/badges/PKU_red.png
+   logo: /assets/images/badges/PKU_red.png
    position: Docente Investigador Tiempo Completo
    date: 2018 - 2021
  - name: Lam Research
-  #logo: /assets/images/badges/PKU_red.png
+   logo: /assets/images/badges/PKU_red.png
    position: Postdoctoral Researcher
    date: 2017
  - name: University of Stuttgart's Visualisation Research Centre (VISUS) 
-   #logo: /assets/images/badges/PKU_red.png
+   logo: /assets/images/badges/PKU_red.png
    position: Research Visitor
    date: 2016
  - name: INRIA - Lille
-   #logo: /assets/images/badges/PKU_red.png
+   logo: /assets/images/badges/PKU_red.png
    position: Research Intern
    date: 2012
 
