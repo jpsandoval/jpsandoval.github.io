@@ -70,9 +70,33 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
+- name: ACM SIGSOFT Distinguished Paper Award — International Conference on Software Engineering, Ottawa, Canada
+  date: 2025
+- name: Best Paper Award (Third Place) — International Workshop in Smalltalk Technologies, Lille, France
   date: 2024
-- name: Award Name 1 
+- name: Most Influential Paper Award — IEEE Working Conference on Software Visualization, Bogotá, Colombia
+  date: 2023
+- name: Investigador Destacado — Universidad Católica Boliviana "San Pablo", Bolivia
   date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Best Paper Award — IEEE Working Conference on Software Visualization, Cleveland, Ohio, USA
+  date: 2019
+- name: Investigador Destacado — Universidad Católica Boliviana "San Pablo"
+  date: 2019
+- name: Doctoral Medal — University of Chile
+  date: 2017
+- name: PhD Fellowship — SFB/Transregio 161, University of Stuttgart, Germany
+  date: 2016
+- name: Best Paper Award — International Workshop in Smalltalk Technologies
+  date: 2014
+- name: Beca Doctorado Nacional — CONICYT, Chile
+  date: 2013
+- name: Beca NIC-DCC — University of Chile, Chile
+  date: 2012
+- name: Tercer Lugar — ACM-ICPC South America Regional, Bolivia
+  date: 2010
+- name: Diploma a la Excelencia Académica — Carrera Ingeniería de Sistemas, Universidad Mayor de San Simón, Bolivia
+  date: 2010
+- name: Diploma a la Excelencia Académica — Carrera Ingeniería de Sistemas, Universidad Mayor de San Simón, Bolivia
+  date: 2009
+- name: Diploma a la Excelencia Académica — Carrera Ingeniería de Sistemas, Universidad Mayor de San Simón, Bolivia
+  date: 2006

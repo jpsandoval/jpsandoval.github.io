@@ -1,0 +1,16 @@
+---
+layout: default
+title : Homepage
+navbar_title: Home
+---
+
+<div class="row">
+    <div class="col-lg-3 col-md-4">
+        {% include widgets/profile_card_mini.html %}
+    </div>
+    <div class="col-lg-9 col-md-8">
+        {% if site.data.display.homepage.show_experience %}
+            {% include widgets/experience_card.html %}
+        {% endif %}
+    </div>
+</div>
