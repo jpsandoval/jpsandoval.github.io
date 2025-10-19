@@ -5,6 +5,8 @@ pages:
   url: /
 - name: Education
   url: /education
+- name: Awards
+  url: /awards
 - name: Publications
   url: /publications
 - name: Showcase
