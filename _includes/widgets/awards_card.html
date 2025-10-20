@@ -5,14 +5,14 @@
                 <div class="row">
 
                     {% if site.data.profile.awards %}
-                    <div class="col-md-9 col-xl-10 p-3">
+                    <div class="col-md-9">
                         <div class="mx-2 my-1">
                             <h6>Honors & Awards</h6>
                             <ul class="list small pl-3 mb-1">
                                 {% for item in site.data.profile.awards %}
                                 <li>
                                     <div class="d-flex">
-                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                                        <div><b>{{ item.date }}</b></div>
                                         <div>{{ item.name }}</div>
                                     </div>
                                 </li>
@@ -23,15 +23,15 @@
                     {% endif %}
 
                     {% if site.data.profile.grants %}
-                    <div class="col-md-9 col-xl-10 p-3">
+                    <div class="col-md-9">
                         <div class="mx-2 my-1">
                             <h6>Research Grants</h6>
                             <ul class="list small pl-3 mb-1">
                                 {% for item in site.data.profile.grants %}
                                 <li>
                                     <div class="d-flex">
-                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
-                                        <div>{{ item.name }}</div>
+                                        <div><b>{{ item.name }}</b></div> <br/>
+                                        <div>{{ item.agency }}</div>
                                     </div>
                                 </li>
                                 {% endfor %}
