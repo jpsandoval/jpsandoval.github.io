@@ -95,14 +95,8 @@ awards:
   date: 2019
 - name: Doctoral Medal — University of Chile
   date: 2017
-- name: PhD Fellowship — SFB/Transregio 161, University of Stuttgart, Germany
-  date: 2016
 - name: Best Paper Award — International Workshop in Smalltalk Technologies
   date: 2014
-- name: Beca Doctorado Nacional — CONICYT, Chile
-  date: 2013
-- name: Beca NIC-DCC — University of Chile, Chile
-  date: 2012
 - name: Tercer Lugar — ACM-ICPC South America Regional, Bolivia
   date: 2010
 - name: Diploma a la Excelencia Académica — Carrera Ingeniería de Sistemas, Universidad Mayor de San Simón, Bolivia
@@ -120,3 +114,9 @@ awards:
   agency: ANID Fondecyt Iniciación 2022
 - name: Oculus Project
   agency: Centro de Ciencias Exactas e Ingeniería, UCB Cochabamba 2021
+- name: PhD Fellowship
+  date: SFB/Transregio 161, University of Stuttgart, Germany
+- name: Beca Doctorado Nacional
+  date: CONICYT, Chile
+- name: Beca NIC-DCC
+  date: University of Chile, Chile
