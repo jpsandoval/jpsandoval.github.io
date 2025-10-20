@@ -21,6 +21,24 @@
                         </div>
                     </div>
                     {% endif %}
+
+                    {% if site.data.profile.grants %}
+                    <div class="col-md-9 col-xl-10 p-3 pl-md-0">
+                        <div class="mx-2 my-1">
+                            <h6>Research Grants</h6>
+                            <ul class="list small pl-3 mb-1">
+                                {% for item in site.data.profile.grants %}
+                                <li>
+                                    <div class="d-flex">
+                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                                        <div>{{ item.name }}</div>
+                                    </div>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                    {% endif %}
                 </div>
 
             </div>
