@@ -47,36 +47,36 @@ portrait_caption: >-
 
 education:
 - name: Universidad de Chile
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/UChile_circle.jpg
   position: >- 
     PLEIAD laboratory  <br/>
     Computer Science Department (DCC)<br/>
     Ph.D. Student
   date: 2012 - 2016
 - name: Universidad Mayor de San Simón
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/UMSS_Circle.png
   position: B.S. in Computer Science
   date: 2005 - 2010
 
 experience:
  - name: Pontificia Universidad Católica de Chile
-   logo: /assets/images/badges/PKU_red.png
+   logo: /assets/images/badges/UC_Chile_circle.png
    position: Asistant Professor
    date: 2022 - Current
  - name: Universidad Católica Boliviana San Pablo
-   logo: /assets/images/badges/PKU_red.png
+   logo: /assets/images/badges/UCB_Circle.png
    position: Docente Investigador Tiempo Completo
    date: 2018 - 2021
  - name: Lam Research
-   logo: /assets/images/badges/PKU_red.png
+   logo: /assets/images/badges/LA_M_Circle.png
    position: Postdoctoral Researcher
    date: 2017
  - name: University of Stuttgart's <br/> Visualisation Research Centre (VISUS) 
-   logo: /assets/images/badges/PKU_red.png
+   logo: /assets/images/badges/VIS_Logo.png
    position: Research Visitor
    date: 2016
  - name: INRIA - Lille <br/> RMoD Team
-   logo: /assets/images/badges/PKU_red.png
+   logo: /assets/images/badges/INRIA_Circle.png
    position: Research Intern
    date: 2012
 
