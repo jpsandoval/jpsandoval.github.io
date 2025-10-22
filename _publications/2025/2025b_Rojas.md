@@ -6,9 +6,9 @@ pub:            "13th IEEE Working Conference on Software Visualization"
 pub_date:       "(VISSOFT 2025)"
 pub_last:       ' <span class="badge badge-pill badge-publication">Poster</span>'
 authors:
-- Tiara Rojas-Stambuk*
-- Luis Fernando Gil-Gareca*
-- Juan Pablo Sandoval Alcocer*
+- Tiara Rojas-Stambuk
+- Luis Fernando Gil-Gareca
+- Juan Pablo Sandoval Alcocer
 - Leonel Merino
 - David Moreno-Lumbreras
 links:
