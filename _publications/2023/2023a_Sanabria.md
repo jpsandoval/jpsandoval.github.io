@@ -4,7 +4,7 @@ date:           2023-01-01 00:01:00 -0300
 selected:       false
 pub:            "IEEE Access"
 pub_date:       "2023"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Q2</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-info">WoS</span> <span class="badge badge-pill badge-publication badge-success">Q2</span>'
 abstract: >-
   Investigates performance and energy impacts of mobile code offloading under unpredictable network conditions, using empirical experiments on Android applications.
 authors:

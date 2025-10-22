@@ -5,9 +5,6 @@ selected:       true
 pub:            "Pharo Books"
 pub_date:       "2023"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Pharo Book</span>'
-
-abstract: >-
-  Book providing a comprehensive introduction to software testing in Pharo, covering unit testing, test design, mocks, stubs, and test-driven development with practical examples.
 authors:
 - Stéphane Ducasse
 - Guillermo Polito

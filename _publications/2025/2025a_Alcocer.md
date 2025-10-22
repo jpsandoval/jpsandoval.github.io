@@ -7,7 +7,7 @@ pub_date:       "2025"
 pub_post:       ' (Just Accepted)'
 # pub_pre:        "Submitted to "
 #pub_post:       'Under review.'
-pub_last:       '<span class="badge badge-pill badge-publication badge-primary">EMSE</span> <span class="badge badge-pill badge-publication badge-success">Q1</span>'
+pub_last:       '<span class="badge badge-pill badge-publication badge-primary">EMSE</span><span class="badge badge-pill badge-publication badge-info">WoS</span> <span class="badge badge-pill badge-publication badge-success">Q1</span>'
 authors:
 - Juan Pablo Sandoval Alcocer*#
 - Maximiliano Narea-Carvajal*
