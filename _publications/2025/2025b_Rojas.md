@@ -1,15 +1,14 @@
 ---
-title:          "FlameGraph AR: Immersive Visualization of CPU Profiles in Augmented Reality (Poster)"
+title:          "FlameGraph AR: Immersive Visualization of CPU Profiles in Augmented Reality"
 date:           2025-01-01 00:01:00 -0300
 selected:       false
-pub:            "13th IEEE Working Conference on Software Visualization (VISSOFT 2025)"
-pub_date:       "2025"
-abstract: >-
-  Poster presenting FlameGraph AR, a tool for inspecting CPU profiles in AR to support performance diagnosis and communication of profiling results.
+pub:            "13th IEEE Working Conference on Software Visualization"
+pub_date:       "(VISSOFT 2025)"
+pub_last:       ' <span class="badge badge-pill">Poster</span>'
 authors:
-- Tiara Rojas-Stambuk
-- Luis Fernando Gil-Gareca
-- Juan Pablo Sandoval Alcocer
+- Tiara Rojas-Stambuk*
+- Luis Fernando Gil-Gareca*
+- Juan Pablo Sandoval Alcocer*
 - Leonel Merino
 - David Moreno-Lumbreras
 links:
