@@ -2,9 +2,9 @@
 title:          "Increasing the Effectiveness of Automatically Generated Tests by Improving Class Observability"
 date:           2025-01-01 00:01:00 -0300
 selected:       true
-pub:            "47th IEEE/ACM International Conference on Software Engineering (ICSE 2025)"
+pub:            "47th IEEE/ACM International Conference on Software Engineering"
 pub_date:       "2025"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Core A*</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">ICSE</span> <span class="badge badge-pill badge-publication badge-light">Distinguished Paper Award</span> <span class="badge badge-pill badge-publication badge-success">Core A*</span>'
 abstract: >-
   Investigates how improving class observability affects search-based Java test generation. Extends EvoSuite by (1) transforming code under test to expose encapsulated state and (2) enabling richer assertions over complex objects; reports improvements in generated test effectiveness.
 authors:
