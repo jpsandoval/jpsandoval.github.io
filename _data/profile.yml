@@ -133,14 +133,20 @@ awards:
 
 grants:
 - name: Mobile Accessibility Testing
-  agency: Open Seed Funds 2023, Escuela de Ingeniería, UC
+  date: 2023
+  agency: Open Seed Funds, Escuela de Ingeniería, UC
 - name: MAGNET- Making Automatically Generated Test Human-Friendly
-  agency: ANID Fondecyt Iniciación 2022
+  date: 2022
+  agency: ANID Fondecyt Iniciación
 - name: Oculus Project
-  agency: Centro de Ciencias Exactas e Ingeniería, UCB Cochabamba 2021
+  date: 2021
+  agency: Centro de Ciencias Exactas e Ingeniería, UCB Cochabamba
 - name: PhD Fellowship
-  date: SFB/Transregio 161, University of Stuttgart, Germany
+  date: 2016
+  agency: SFB/Transregio 161, University of Stuttgart, Germany
 - name: Beca Doctorado Nacional
-  date: CONICYT, Chile
+  date: 2013
+  agency: CONICYT, Chile
 - name: Beca NIC-DCC
-  date: University of Chile, Chile
+  date: 2012
+  agency: University of Chile, Chile
