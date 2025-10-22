@@ -2,10 +2,9 @@
 title:          "Performance Evolution Blueprint: Understanding the Impact of Software Evolution on Performance"
 date:           2013-01-01 00:01:00 -0300
 selected:       true
-pub:            "IEEE Working Conference on Software Visualization (VISSOFT 2013)"
+pub:            "IEEE Working Conference on Software Visualization"
 pub_date:       "2013"
-abstract: >-
-  Proposes the Performance Evolution Blueprint to visualize performance evolution and locate regressions across software versions.
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">VISSOFT</span> <span class="badge badge-pill badge-publication badge-info">Main Research Track</span>  <span class="badge badge-pill badge-publication badge-warning">Most Influential Paper Award</span> '
 authors:
 - Juan Pablo Sandoval Alcocer
 - Alexandre Bergel

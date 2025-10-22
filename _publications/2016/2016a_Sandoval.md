@@ -2,10 +2,9 @@
 title:          "Dynamically Composing Collection Operations through Collection Promises"
 date:           2016-01-01 00:01:00 -0300
 selected:       false
-pub:            "International Workshop on Smalltalk Technologies (IWST 2016)"
+pub:            "International Workshop on Smalltalk Technologies"
 pub_date:       "2016"
-abstract: >-
-  Proposes Collection Promises, a mechanism to dynamically compose collection operations and defer computation for performance optimization.
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">IWST</span> <span class="badge badge-pill badge-publication badge-info">Workshop Paper</span>
 authors:
 - Juan Pablo Sandoval Alcocer
 - Marcus Denker

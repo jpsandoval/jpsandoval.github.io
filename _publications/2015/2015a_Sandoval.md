@@ -4,8 +4,7 @@ date:           2015-01-01 00:01:00 -0300
 selected:       true
 pub:            "ACM Dynamic Languages Symposium (DLS 2015)"
 pub_date:       "2015"
-abstract: >-
-  Explores correlations between source code evolution and performance variation using dynamic analysis in Pharo.
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">DLS</span> <span class="badge badge-pill badge-publication badge-info">Main Research Track</span>'
 authors:
 - Juan Pablo Sandoval Alcocer
 - Alexandre Bergel

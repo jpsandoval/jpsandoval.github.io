@@ -2,10 +2,9 @@
 title:          "Deviation Testing: A Test Case Generation Technique for GraphQL APIs"
 date:           2018-01-01 00:01:00 -0300
 selected:       false
-pub:            "International Workshop on Smalltalk Technologies (IWST 2018)"
+pub:            "International Workshop on Smalltalk Technologies"
 pub_date:       "2018"
-abstract: >-
-  Presents a GraphQL test generation approach using deviation testing to explore alternative query paths.
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">IWST</span> <span class="badge badge-pill badge-publication badge-info">Workshop Paper</span>
 authors:
 - Daniela Meneses Vargas
 - Alison Fernandez Blanco

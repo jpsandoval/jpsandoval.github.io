@@ -2,10 +2,9 @@
 title:          "Debugging Performance Failures"
 date:           2012-01-01 00:01:00 -0300
 selected:       false
-pub:            "Workshop on Dynamic Languages and Applications (ECOOP'12)"
+pub:            "Workshop on Dynamic Languages and Applications"
 pub_date:       "2012"
-abstract: >-
-  Proposes a dynamic analysis approach to help developers locate performance failures in dynamic languages.
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">DYLA</span> <span class="badge badge-pill badge-publication badge-info">Workshop Paper</span>
 authors:
 - Juan Pablo Sandoval Alcocer
 - Alexandre Bergel

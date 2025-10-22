@@ -4,8 +4,7 @@ date:           2020-01-01 00:01:00 -0300
 selected:       false
 pub:            "Science of Computer Programming"
 pub_date:       "2020"
-abstract: >-
-  Empirical analysis of factors influencing success in automated Extract Method refactoring.
+pub_last:       '<span class="badge badge-pill badge-publication badge-primary">SCP</span> <span class="badge badge-pill badge-publication badge-info">WoS</span>'
 authors:
 - Juan Pablo Sandoval Alcocer
 - Alejandra Siles Antezana
