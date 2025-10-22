@@ -81,29 +81,53 @@ experience:
    date: 2012
 
 awards:
-- name: ACM SIGSOFT Distinguished Paper Award — International Conference on Software Engineering, Ottawa, Canada
+- name: ACM SIGSOFT Distinguished Paper Award
+  institution: International Conference on Software Engineering
+  place: Ottawa, Canada
   date: 2025
-- name: Best Paper Award (Third Place) — International Workshop in Smalltalk Technologies, Lille, France
+- name: Best Paper Award (Third Place)
+  institution: International Workshop in Smalltalk Technologies
+  place: Lille, France
   date: 2024
-- name: Most Influential Paper Award — IEEE Working Conference on Software Visualization, Bogotá, Colombia
+- name: Most Influential Paper Award
+  institution: IEEE Working Conference on Software Visualization
+  place: Bogotá, Colombia
   date: 2023
-- name: Investigador Destacado — Universidad Católica Boliviana "San Pablo", Bolivia
+- name: Investigador Destacado
+  institution: Universidad Católica Boliviana "San Pablo"
+  place: Bolivia
   date: 2021
-- name: Best Paper Award — IEEE Working Conference on Software Visualization, Cleveland, Ohio, USA
+- name: Best Paper Award
+  institution: IEEE Working Conference on Software Visualization
+  place: Cleveland, Ohio, USA
   date: 2019
-- name: Investigador Destacado — Universidad Católica Boliviana "San Pablo"
+- name: Investigador Destacado
+  institution: Universidad Católica Boliviana "San Pablo"
+  place: Bolivia
   date: 2019
-- name: Doctoral Medal — University of Chile
+- name: Doctoral Medal
+  institution: University of Chile
+  place: Chile
   date: 2017
-- name: Best Paper Award — International Workshop in Smalltalk Technologies
+- name: Best Paper Award
+  institution: International Workshop in Smalltalk Technologies
+  place: Cambridge, England
   date: 2014
-- name: Tercer Lugar — ACM-ICPC South America Regional, Bolivia
+- name: Tercer Lugar
+  institution: ACM-ICPC South America Regional, Bolivia
+  place: Bolivia
   date: 2010
-- name: Diploma a la Excelencia Académica — Carrera Ingeniería de Sistemas, Universidad Mayor de San Simón, Bolivia
+- name: Diploma a la Excelencia Académica 
+  institution: Carrera Ingeniería de Sistemas, Universidad Mayor de San Simón
+  place: Bolivia
   date: 2010
-- name: Diploma a la Excelencia Académica — Carrera Ingeniería de Sistemas, Universidad Mayor de San Simón, Bolivia
+- name: Diploma a la Excelencia Académica
+  institution: Carrera Ingeniería de Sistemas, Universidad Mayor de San Simón
+  place: Bolivia
   date: 2009
-- name: Diploma a la Excelencia Académica — Carrera Ingeniería de Sistemas, Universidad Mayor de San Simón, Bolivia
+- name: Diploma a la Excelencia Académica
+  institution: Carrera Ingeniería de Sistemas, Universidad Mayor de San Simón
+  place: Bolivia
   date: 2006
 
 
