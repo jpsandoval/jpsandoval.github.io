@@ -4,7 +4,7 @@ date:           2023-01-01 00:01:00 -0300
 selected:       true
 pub:            "IEEE International Conference on Software Maintenance and Evolution"
 pub_date:       "2023"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">ICSME</span> <span class="badge badge-pill badge-publication badge-info">Main Research Track</span> <span class="badge badge-pill badge-publication badge-success">ICSME - Core A</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">ICSME</span> <span class="badge badge-pill badge-publication badge-info">Main Research Track</span> <span class="badge badge-pill badge-publication badge-success">Core A</span>'
 authors:
 - Geraldine Galindo-Gutierrez*
 - Maximiliano Narea Carvajal

@@ -4,7 +4,7 @@ date:           2024-01-01 00:01:00 -0300
 selected:       true
 pub:            "International Workshop on Smalltalk Technologies"
 pub_date:       "2024"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">IWST</span> <span class="badge badge-pill badge-publication badge-info">Workshop Paper</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">IWST</span> <span class="badge badge-pill badge-publication badge-info">Workshop Paper</span><span class="badge badge-pill badge-publication badge-warning">Best Paper Award (top 3)</span>'
 authors:
 - Sebastian Jordan Montaño
 - Juan Pablo Sandoval Alcocer

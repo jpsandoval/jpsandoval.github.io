@@ -4,8 +4,7 @@ date:           2022-01-01 00:01:00 -0300
 selected:       true
 pub:            "ACM Computing Surveys"
 pub_date:       "2022"
-abstract: >-
-  Comprehensive literature review on visualization techniques for memory consumption analysis in software systems.
+pub_last:       '<span class="badge badge-pill badge-publication badge-primary">ACM CSUR</span><span class="badge badge-pill badge-publication badge-info">WoS</span> <span class="badge badge-pill badge-publication badge-success">Q1*</span>'
 authors:
 - Alison Fernandez Blanco
 - Alexandre Bergel

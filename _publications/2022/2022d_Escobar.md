@@ -2,10 +2,9 @@
 title:          "Spike – A code editor plugin highlighting fine-grained changes"
 date:           2022-01-01 00:01:00 -0300
 selected:       false
-pub:            "IEEE Working Conference on Software Visualization (VISSOFT 2022, Tool/NIER Track)"
+pub:            "IEEE Working Conference on Software Visualization"
 pub_date:       "2022"
-abstract: >-
-  Presents Spike, a plugin that highlights fine-grained source code changes to support comprehension tasks.
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">VISSOFT</span> <span class="badge badge-pill badge-publication badge-info">Tool/NIER Track</span>'
 authors:
 - Ronald Escobar
 - Juan Pablo Sandoval Alcocer

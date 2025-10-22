@@ -4,8 +4,7 @@ date:           2022-01-01 00:01:00 -0300
 selected:       false
 pub:            "IEEE Working Conference on Software Visualization (VISSOFT 2022, Research Track)"
 pub_date:       "2022"
-abstract: >-
-  Introduces Vismep, a visualization to explore object memory consumption and identify performance issues.
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">VISSOFT</span> <span class="badge badge-pill badge-publication badge-info">Main Research Track</span>'
 authors:
 - Alison Fernandez Blanco
 - Alexandre Bergel

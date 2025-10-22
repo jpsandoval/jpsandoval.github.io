@@ -4,8 +4,7 @@ date:           2022-01-01 00:01:00 -0300
 selected:       false
 pub:            "Information and Software Technology"
 pub_date:       "2022"
-abstract: >-
-  Editorial introducing a special issue on software visualization, summarizing contributions and emerging trends.
+pub_last:       '<span class="badge badge-pill badge-publication badge-primary">IST</span><span class="badge badge-pill badge-publication badge-info">WoS</span> <span class="badge badge-pill badge-publication badge-success">Q1</span>'
 authors:
 - Paul Leger
 - Alexandre Bergel

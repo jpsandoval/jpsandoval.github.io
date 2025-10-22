@@ -4,8 +4,7 @@ date:           2022-01-01 00:01:00 -0300
 selected:       true
 pub:            "Empirical Software Engineering"
 pub_date:       "2022"
-abstract: >-
-  Proposes TestEvoViz, a visualization for understanding coverage evolution in search-based test generation.
+pub_last:       '<span class="badge badge-pill badge-publication badge-primary">EMSE</span><span class="badge badge-pill badge-publication badge-info">WoS</span> <span class="badge badge-pill badge-publication badge-success">Q1</span>'
 authors:
 - Andreina Cota Vidaure
 - Evelyn Cusi Lopez
