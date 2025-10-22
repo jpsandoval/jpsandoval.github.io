@@ -4,6 +4,7 @@ date:           2021-01-01 00:01:00 -0300
 selected:       false
 pub:            "International Conference on Computational Science and its Applications"
 pub_date:       "2021"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">ICCSA</span>'
 authors:
 - Joshua Nostas
 - Juan Pablo Sandoval Alcocer
