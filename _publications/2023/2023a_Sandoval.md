@@ -5,8 +5,6 @@ selected:       false
 pub:            "IEEE Access"
 pub_date:       "2023"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-info">WoS</span> <span class="badge badge-pill badge-publication badge-success">Q2</span>'
-abstract: >-
-  Empirical eye-tracking study comparing split versus unified code diff views in bug detection tasks. Results show developers perform better with split views in comprehension and bug identification.
 authors:
 - Juan Pablo Sandoval Alcocer
 - Alejandra Cossio-Chavalier

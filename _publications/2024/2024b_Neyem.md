@@ -2,12 +2,9 @@
 title:          "Exploring the Impact of Generative AI for StandUp Report Recommendations in Software Capstone Project Development"
 date:           2024-01-01 00:01:00 -0300
 selected:       true
-pub:            "Technical Symposium on Computer Science Education (SIGCSE TS 2024)"
+pub:            "Technical Symposium on Computer Science Education"
 pub_date:       "2024"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">SIGCSE  - Core A</span>'
-
-abstract: >-
-  Evaluates an AI system that recommends improvements for students’ daily stand‑up reports; finds improved report quality and positive student perceptions throughout the semester.
+pub_last:       '  <span class="badge badge-pill badge-publication badge-primary">SIGCSE</span> <span class="badge badge-pill badge-publication badge-info">Main Research Track</span> <span class="badge badge-pill badge-publication badge-success">Core A</span>'
 authors:
 - Andres Neyem
 - Juan Pablo Sandoval

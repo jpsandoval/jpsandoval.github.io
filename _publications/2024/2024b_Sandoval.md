@@ -4,9 +4,7 @@ date:           2024-01-01 00:01:00 -0300
 selected:       true
 pub:            "Journal of Computer Languages"
 pub_date:       "2024"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">COLA</span>'
-abstract: >-
-  Replicates SMT‑based variable renaming on Pharo decompiled code, detailing training, evaluation, and results that demonstrate the feasibility of SMT for improving variable names in decompiled Smalltalk.
+pub_last:       '<span class="badge badge-pill badge-publication badge-primary">COLA</span> <span class="badge badge-pill badge-publication badge-info">WoS</span>'
 authors:
 - Juan Pablo Sandoval Alcocer
 - Harold Camacho-Jaimes
