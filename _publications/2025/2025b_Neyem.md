@@ -4,7 +4,7 @@ date:           2025-01-01 00:01:00 -0300
 selected:       false
 pub:            "Technical Symposium on Computer Science Education"
 pub_date:       "2025"
-pub_last:       '  <span class="badge badge-pill badge-publication badge-primary">SIGCSE</span> <span class="badge badge-pill badge-publication badge-success">Core A</span>'
+pub_last:       '  <span class="badge badge-pill badge-publication badge-primary">SIGCSE</span> <span class="badge badge-pill badge-publication badge-info">Main Research Track</span> <span class="badge badge-pill badge-publication badge-success">Core A</span>'
 authors:
 - Andres Neyem
 - Jose Carrasco
