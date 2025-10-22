@@ -5,11 +5,9 @@ selected:       true
 pub:            "47th IEEE/ACM International Conference on Software Engineering"
 pub_date:       "2025"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">ICSE</span> <span class="badge badge-pill badge-publication badge-light">Distinguished Paper Award</span> <span class="badge badge-pill badge-publication badge-success">Core A*</span>'
-abstract: >-
-  Investigates how improving class observability affects search-based Java test generation. Extends EvoSuite by (1) transforming code under test to expose encapsulated state and (2) enabling richer assertions over complex objects; reports improvements in generated test effectiveness.
 authors:
-- Geraldine Galindo-Gutierrez
-- Juan Pablo Sandoval Alcocer
+- Geraldine Galindo-Gutierrez*
+- Juan Pablo Sandoval Alcocer*
 - Nicolas Jimenez-Fuentes
 - Alexandre Bergel
 - Gordon Fraser

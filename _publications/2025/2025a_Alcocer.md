@@ -8,12 +8,10 @@ pub_post:       'Just Accepted'
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       '<span class="badge badge-pill badge-publication badge-primary">EMSE</span> <span class="badge badge-pill badge-publication badge-success">Q1</span>'
-abstract: >-
-  Empirical study on quality issues in automatically generated tests extending beyond classical test-smell taxonomies.
 authors:
-- Juan Pablo Sandoval Alcocer
-- Maximiliano Narea-Carvajal
-- Geraldine Galindo-Gutierrez
+- Juan Pablo Sandoval Alcocer*#
+- Maximiliano Narea-Carvajal*
+- Geraldine Galindo-Gutierrez*
 - Alison Fernandez-Blanco
 - Andres Neyem
 - Nicolas Anquetil
