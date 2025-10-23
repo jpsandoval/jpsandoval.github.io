@@ -5,10 +5,60 @@ current:
     logo: /assets/images/badges/UC_Chile_circle.png
     position: Asistant Professor
     role: Head
-
-
-alumni:
-  - name: Juan Pablo Sandoval
+  - name: Leonel Merino
     logo: /assets/images/badges/UC_Chile_circle.png
     position: Asistant Professor
-    role: Head
+    role: Colaborator - DILAB - UC
+  - name: Alison Fernandez
+    logo: /assets/images/badges/UC_Chile_circle.png
+    position: Asistant Professor
+    role: Colaborator - SEIS Lab - UC
+  - name: Tiara Rojas Stambuk
+    logo: /assets/images/badges/UC_Chile_circle.png
+    position: Researcher
+    role: Centro Ciencias Exactas e Ingeniería - UCB
+
+students:
+  - name: Kevin Cespedes
+    logo: /assets/images/badges/UC_Chile_circle.png
+    position: PhD Student
+    role: 
+  - name: Leonardo Centellas
+    logo: /assets/images/badges/UC_Chile_circle.png
+    position: PhD Student
+    role: 
+  - name: Benjamin Gonzales
+    logo: /assets/images/badges/UC_Chile_circle.png
+    position: Master Student Student
+    role: 
+
+alumni:
+  - name: Nicolas Fuentes
+    logo: /assets/images/badges/UC_Chile_circle.png
+    thesis: 
+    role: Master Student
+  - name: Fran Ibarra
+    logo: /assets/images/badges/UC_Chile_circle.png
+    thesis: 
+    role: Master Student
+  - name: Maximiliano Narea
+    logo: /assets/images/badges/UC_Chile_circle.png
+    thesis: 
+    role: Master Student
+  - name: Alison Fernandez Blanco
+    logo: /assets/images/badges/UC_Chile_circle.png
+    thesis: 
+    role: PhD Student
+
+  - name: Geraldine Galindo
+    logo: /assets/images/badges/UC_Chile_circle.png
+    thesis: 
+    role: Master Student
+  - name: Tiara Rojas
+    logo: /assets/images/badges/UC_Chile_circle.png
+    thesis: 
+    role: Master Student
+  - name: Andrea Baldelomar
+    logo: /assets/images/badges/UC_Chile_circle.png
+    thesis: 
+    role: Master Student
