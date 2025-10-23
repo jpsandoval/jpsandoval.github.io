@@ -3,22 +3,22 @@
 current:
   - name: Juan Pablo Sandoval
     url: https://jpsandoval.github.io/
-    logo: /assets/images/badges/profile.png
+    logo: /assets/images/photos/profile.png
     position: Asistant Professor
     role: Head
   - name: Leonel Merino
     logo: /assets/images/badges/UC_Chile_circle.png
-    position: Asistant Professor
-    role: Colaborator - DILAB - UC
+    position: Asistant Professor, DILAB, UC
+    role: Colaborator
   - name: Alison Fernandez
     url: https://balison.github.io/
     logo: /assets/images/photos/alison.png
-    position: Asistant Professor
-    role: Colaborator - SEIS Lab - UC
+    position: Asistant Professor, SEIS Lab, UC
+    role: Colaborator
   - name: Tiara Rojas Stambuk
     logo: /assets/images/badges/UC_Chile_circle.png
-    position: Researcher
-    role: Colaborator - Centro Ciencias Exactas e Ingeniería - UCB
+    position: Researcher,Centro Ciencias Exactas e Ingeniería, UCB
+    role: Colaborator 
 
 students:
   - name: Kevin Cespedes
