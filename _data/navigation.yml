@@ -9,5 +9,5 @@ pages:
   url: /awards
 - name: Publications
   url: /publications
-- name: Students
-  url: /team
+#- name: Students
+  #url: /team
