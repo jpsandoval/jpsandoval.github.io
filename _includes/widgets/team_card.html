@@ -10,7 +10,7 @@
                             <ul class="list-unstyled mb-1">
                                 {% for item in site.data.team.current %}
                                 <li class="media mb-1">
-                                    <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 60px; height: 60px" class="mr-1 mt-1">
+                                    <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" class="team-img mr-1 mt-1">
                                     <div class="media-body">
                                         <div> <a href="{{item.url}}">{{ item.name }}</a></div>
                                         <div class="small">{{ item.dept }}</div>
@@ -33,7 +33,7 @@
                             <ul class="list-unstyled mb-1">
                                 {% for item in site.data.team.students %}
                                 <li class="media mb-1">
-                                    <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 60px; height: 60px" class="mr-1 mt-1">
+                                    <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" class="team-img mr-1 mt-1">
                                     <div class="media-body">
                                         <div>{{ item.name }}</div>
                                         <div class="small">{{ item.dept }}</div>
@@ -57,7 +57,7 @@
                             <ul class="list-unstyled mb-1">
                                 {% for item in site.data.team.alumni %}
                                 <li class="media mb-1">
-                                    <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 60px; height: 60px" class="mr-1 mt-1">
+                                    <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" class="team-img mr-1 mt-1">
                                     <div class="media-body">
                                         <div>{{ item.name }}</div>
                                         <div class="small">{{ item.dept }}</div>
