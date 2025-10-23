@@ -5,8 +5,6 @@ selected:       true
 pub:            "ACM/SPEC International Conference on Performance Engineering"
 pub_date:       "2016"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">ICPE</span> <span class="badge badge-pill badge-publication badge-info">Main Research Track</span>'
-abstract: >-
-  Uses source code history and performance profiling to predict and detect performance regressions.
 authors:
 - Juan Pablo Sandoval Alcocer
 - Alexandre Bergel
