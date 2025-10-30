@@ -15,15 +15,13 @@
                   <div class="d-flex">
                     <div class="me-4">
                       <b>
-                        {% if item.estado %}{{ item.estado }}
-                        {% elsif item.año %}{{ item.año }}
+                        {% if item.acronimo %}{{ item.acronimo }}
                         {% else %}&nbsp;{% endif %}
                       </b>
                     </div>
                     <div class="ms-1" style="margin-left:8px;">
                       <div>
                         {{ item.conferencia }}
-                        {% if item.acronimo %} ({{ item.acronimo }}){% endif %}
                       </div>
                       <div class="text-muted ms-2">
                         {% if item.core %}Core {{ item.core }}{% endif %}
@@ -52,28 +50,21 @@
               <h6>Revisor de Revistas (Web of Science)</h6>
               <ul class="list small pl-3 mb-1">
                 {% for item in site.data.service.revisor_revistas %}
-                <li class="mb-2">
+                 <li class="mb-2">
                   <div class="d-flex">
                     <div class="me-4">
                       <b>
-                        {% if item.estado %}{{ item.estado }}
-                        {% elsif item.año %}{{ item.año }}
+                        {% if item.acronimo %}{{ item.acronimo }}
                         {% else %}&nbsp;{% endif %}
                       </b>
                     </div>
                     <div class="ms-1" style="margin-left:8px;">
-                      <div>{{ item.rol }}</div>
-                      {% if item.descripcion %}
-                      <div class="text-muted ms-2">{{ item.descripcion }}</div>
-                      {% endif %}
-
-                      {% if item.revistas %}
+                      <div>
+                        {{ item.revista }}
+                      </div>
                       <ul class="mb-1 mt-1">
-                        {% for journal in item.revistas %}
-                        <li>{{ journal }}</li>
-                        {% endfor %}
+                        {%item.role %}
                       </ul>
-                      {% endif %}
                     </div>
                   </div>
                 </li>

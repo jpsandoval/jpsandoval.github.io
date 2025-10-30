@@ -47,15 +47,12 @@ revisor_conferencias:
       - "Revisor Externo Invitado: 2017"
 
 revisor_revistas:
-  - rol: "Revisor Experto"
-    descripcion: "Regularmente invitado a revisar artículos en las siguientes revistas:"
-    revistas:
-      - "Empirical Software Engineering (Q1)"
-      - "Journal of Software Systems (Q1)"
-    estado: "Actualmente"
-
-  - rol: "Editor Invitado"
-    descripcion: "Editor Invitado para Edición Especial en Visualización de Software"
-    revistas:
-      - "Information and Software Technology (Q1)"
-    año: 2021
+  - acronimo: EMSE
+    revista: "Empirical Software Engineering (Q1)"
+    rol: "Revisor"
+  - acronimo: JSS
+    revista: "Journal Software and Systems (Q1)"
+    rol: "Revisor"
+  - revista: "Information and Software Technology (Q1)"
+    rol: "Editor Invitado para Edición Especial en Visualización de Software"
+    year: 2021
