@@ -10,7 +10,7 @@
             <div class="mx-2 my-1">
               <h6>Participación como Revisor/Comité en Conferencias</h6>
               <ul class="list small pl-3 mb-1">
-                {% for item in site.data.profile.revisiones.participacion_revisor_experto_en_conferencias %}
+                {% for item in site.data.profile.service.revisor_conferencias %}
                 <li class="mb-2">
                   <div class="d-flex">
                     <div class="me-4">
@@ -46,7 +46,7 @@
           {% endif %}
 
           {% comment %} === Revistas (WoS) === {% endcomment %}
-          {% if site.data.service.revisor_de_revistas_web_of_science %}
+          {% if site.data.service.revisor_revistas %}
           <div class="col-md-9">
             <div class="mx-2 my-1">
               <h6>Revisor de Revistas (Web of Science)</h6>
