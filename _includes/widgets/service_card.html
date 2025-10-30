@@ -43,10 +43,11 @@
       {% for item in site.data.service.revisor_revistas %}
       <li class="mb-2">
         <div class="d-flex">
-          <div class="me-4"><b>{{ item.acronimo | default: "" }}</b></div>
           <div class="ms-1" style="margin-left:8px;">
+            <div class="me-4"><b>{{ item.acronimo | default: "" }}</b></div>
             <div>{{ item.revista }}</div>
             <div>{{ item.rol | default: "" }}</div>
+            <div>{{ item.year | default: "" }}</div>
           </div>
         </div>
       </li>

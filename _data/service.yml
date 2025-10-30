@@ -53,6 +53,7 @@ revisor_revistas:
   - acronimo: "JSS"
     revista: "Journal Software and Systems (Q1)"
     rol: "Revisor"
-  - revista: "Information and Software Technology (Q1)"
+  - acronimo: "IST"
+    revista: "Information and Software Technology (Q1)"
     rol: "Editor Invitado para Edición Especial en Visualización de Software"
     year: "2021"
