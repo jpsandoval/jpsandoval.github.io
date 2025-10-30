@@ -9,34 +9,34 @@ students:
     role: 
   - name: Benjamin Gonzales
     logo: /assets/images/photos/user.png
-    position: Master Student Student
+    position: Master Student
     role: 
 alumni:
   - name: Nicolas Jimenez
     logo: /assets/images/photos/user.png
     thesis: 
-    role: Master Student
+    role: Master in Computer Science
   - name: Fran Ibarra
     logo: /assets/images/photos/user.png
     thesis: 
-    role: Master Student
+    role: Master in Computer Science
   - name: Maximiliano Narea
     logo: /assets/images/photos/user.png
     thesis: 
-    role: Master Student
+    role: Master in Computer Science
   - name: Alison Fernandez Blanco
     logo: /assets/images/photos/user.png
     thesis: 
-    role: PhD Student
+    role: PhD in Computer Science
   - name: Geraldine Galindo
     logo: /assets/images/photos/user.png
     thesis: 
-    role: Master Student
+    role: Master in Computer Science
   - name: Tiara Rojas
     logo: /assets/images/photos/user.png
     thesis: 
-    role: Master Student
+    role: Master in Computer Science
   - name: Andrea Baldelomar
     logo: /assets/images/photos/user.png
     thesis: 
-    role: Master Student
+    role: Master in Software Security
