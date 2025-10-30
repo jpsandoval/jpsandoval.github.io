@@ -3,57 +3,57 @@ revisor_conferencias:
     acronimo: "SANER"
     core: "A"
     roles:
-      - "Miembro de Comité de Programa - Early Research Achievement (ERA): 2023, 2024, 2025"
+      - "PC Member - Early Research Achievement (ERA): 2023, 2024, 2025"
     estado: "Actualmente"
 
   - conferencia: "International Conference on Mining Software Repositories"
     acronimo: "MSR"
     core: "A"
     roles:
-      - "Miembro de Comité de Programa - Data and Tool Showcase Track: 2025"
+      - "PC Member - Data and Tool Showcase Track: 2025"
     estado: "Actualmente"
 
   - conferencia: "IEEE/ACM International Conference on Program Comprehension"
     acronimo: "ICPC"
     core: "A"
     roles:
-      - "Miembro de Comité de Programa - Main Research Track: 2025"
+      - "PC Member - Main Research Track: 2025, 2026"
     estado: "Actualmente"
 
   - conferencia: "IEEE Working Conference on Software Visualization"
     acronimo: "IEEE VISSOFT"
     core: "B"
     roles:
-      - "Miembro de Comité de Programa - Main Research Track: 2018, 2019, 2020, 2022"
-      - "Presidente de Comité de Programa - Main Research Track: 2021"
+      - "PC Member - Main Research Track: 2018, 2019, 2020, 2022"
+      - "PC Chair - Main Research Track: 2021"
     estado: "Actualmente"
 
   - conferencia: "Conference on Human Factors in Computing Systems"
     acronimo: "CHI"
     core: "A*"
     roles:
-      - "Revisor Externo Invitado: 2025"
+      - "External Reviewer: 2025"
 
   - conferencia: "Conference on Visualization"
     acronimo: "PACIFIC-VIS"
     core: "B"
     roles:
-      - "Revisor Externo Invitado: 2017"
+      - "External Reviewer: 2017"
 
   - conferencia: "EG/VGTC Conference on Visualization"
     acronimo: "EUROVIS"
     core: "B"
     roles:
-      - "Revisor Externo Invitado: 2017"
+      - "External Reviewer: 2017"
 
 revisor_revistas:
   - acronimo: "EMSE"
     revista: "Empirical Software Engineering (Q1)"
-    rol: "Revisor"
+    rol: "Reviewer"
   - acronimo: "JSS"
     revista: "Journal Software and Systems (Q1)"
-    rol: "Revisor"
+    rol: "Reviewer"
   - acronimo: "IST"
     revista: "Information and Software Technology (Q1)"
-    rol: "Editor Invitado para Edición Especial en Visualización de Software"
+    rol: "Guest Editor special issue on Software Visualization"
     year: "2021"
