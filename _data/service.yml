@@ -1,0 +1,61 @@
+revisor_conferencias:
+  - conferencia: "IEEE International Conference on Software Analysis, Evolution and Reengineering"
+    acronimo: "SANER"
+    core: "A"
+    roles:
+      - "Miembro de Comité de Programa - Early Research Achievement (ERA): 2023, 2024, 2025"
+    estado: "Actualmente"
+
+  - conferencia: "International Conference on Mining Software Repositories"
+    acronimo: "MSR"
+    core: "A"
+    roles:
+      - "Miembro de Comité de Programa - Data and Tool Showcase Track: 2025"
+    estado: "Actualmente"
+
+  - conferencia: "IEEE/ACM International Conference on Program Comprehension"
+    acronimo: "ICPC"
+    core: "A"
+    roles:
+      - "Miembro de Comité de Programa - Main Research Track: 2025"
+    estado: "Actualmente"
+
+  - conferencia: "IEEE Working Conference on Software Visualization"
+    acronimo: "IEEE VISSOFT"
+    core: "B"
+    roles:
+      - "Miembro de Comité de Programa - Main Research Track: 2018, 2019, 2020, 2022"
+      - "Presidente de Comité de Programa - Main Research Track: 2021"
+    estado: "Actualmente"
+
+  - conferencia: "Conference on Human Factors in Computing Systems"
+    acronimo: "CHI"
+    core: "A*"
+    roles:
+      - "Revisor Externo Invitado: 2025"
+
+  - conferencia: "Conference on Visualization"
+    acronimo: "PACIFIC-VIS"
+    core: "B"
+    roles:
+      - "Revisor Externo Invitado: 2017"
+
+  - conferencia: "EG/VGTC Conference on Visualization"
+    acronimo: "EUROVIS"
+    core: "B"
+    roles:
+      - "Revisor Externo Invitado: 2017"
+
+revisor_revistas:
+  - rol: "Revisor Experto"
+    descripcion: "Regularmente invitado a revisar artículos en las siguientes revistas:"
+    revistas:
+      - "Empirical Software Engineering (Q1)"
+      - "Journal of Software Systems (Q1)"
+    estado: "Actualmente"
+
+  - rol: "Editor Invitado"
+    descripcion: "Editor Invitado para Edición Especial en Visualización de Software"
+    revistas:
+      - "Information and Software Technology (Q1)"
+    año: 2021
