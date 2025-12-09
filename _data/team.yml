@@ -5,7 +5,7 @@ students:
     thesis: Automatic Test Generation
   - name: Leonardo Centellas
     logo: /assets/images/photos/user.png
-    position: PhD Student
+    role: PhD Student
     thesis: Automatic Code Review
   - name: Benjamin Gonzales
     logo: /assets/images/photos/user.png
