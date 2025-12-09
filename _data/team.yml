@@ -2,41 +2,45 @@ students:
   - name: Kevin Cespedes
     logo: /assets/images/photos/user.png
     position: PhD Student
-    role: 
+    role: Automatic Test Generation
   - name: Leonardo Centellas
     logo: /assets/images/photos/user.png
     position: PhD Student
-    role: 
+    role: Automatic Code Review
   - name: Benjamin Gonzales
     logo: /assets/images/photos/user.png
     position: Master Student
-    role: 
+    role: Mobile Accessibility Testing
 alumni:
   - name: Nicolas Jimenez
     logo: /assets/images/photos/user.png
-    thesis: 
+    thesis: Assessing the impact of class observability on automatically generated tests
     role: Master in Computer Science
   - name: Fran Ibarra
     logo: /assets/images/photos/user.png
-    thesis: 
+    thesis: A Visual Tool for Assessing Automatically Generated Tests
     role: Master in Computer Science
   - name: Maximiliano Narea
     logo: /assets/images/photos/user.png
-    thesis: 
+    thesis: Categorizing and Detecting New Quality Issues In Automatically Generated Test Cases
     role: Master in Computer Science
   - name: Alison Fernandez Blanco
     logo: /assets/images/photos/user.png
-    thesis: 
+    thesis: Empirical Foundation For Memory Usage Analysis Through Software Visualizations
     role: PhD in Computer Science
   - name: Geraldine Galindo
     logo: /assets/images/photos/user.png
-    thesis: 
+    thesis: Improving Variable Names from Automatic Generated Test with Lightweight Heuristics
     role: Master in Computer Science
   - name: Tiara Rojas
     logo: /assets/images/photos/user.png
-    thesis: 
+    thesis: Understanding the Use of Extended Reality to Support Software Development Activities
     role: Master in Computer Science
   - name: Andrea Baldelomar
     logo: /assets/images/photos/user.png
-    thesis: 
+    thesis: Development of a Prototype Tool for Security Analysis in Android Applications
     role: Master in Software Security
+  - name: Alejandra Siles
+    logo: /assets/images/photos/user.png
+    thesis: TOAD a tool for recommending auto-refactoring alternatives (ICSE - First Place - Student Research Competition)
+    role: Bachelor in Computer Science

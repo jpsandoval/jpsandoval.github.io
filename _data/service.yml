@@ -1,4 +1,27 @@
 revisor_conferencias:
+  - conferencia: "IEEE/ACM International Conference on Program Comprehension"
+    acronimo: "ICPC"
+    core: "A"
+    roles:
+      - "PC Member - Main Research Track: 2025, 2026"
+    estado: "Actualmente"  
+  
+  - conferencia: "IEEE International Conference on Software Maintenance and Evolution"
+    acronimo: "ICSME"
+    core: "A"
+    roles:
+      - "PC Member - Visions and Emerging Results Track : 2026"
+      - "PC Member - Tool Demonstration and Data Showcase Track : 2025, 2026"
+    estado: "Actualmente" 
+    
+  - conferencia: "International Conference on Mining Software Repositories"
+    acronimo: "MSR"
+    core: "A"
+    roles:
+      - "PC Member - Main Research Track (Junior PC): 2026"
+      - "PC Member - Data and Tool Showcase Track: 2025"
+    estado: "Actualmente"
+
   - conferencia: "IEEE International Conference on Software Analysis, Evolution and Reengineering"
     acronimo: "SANER"
     core: "A"
@@ -6,25 +29,11 @@ revisor_conferencias:
       - "PC Member - Early Research Achievement (ERA): 2023, 2024, 2025"
     estado: "Actualmente"
 
-  - conferencia: "International Conference on Mining Software Repositories"
-    acronimo: "MSR"
-    core: "A"
-    roles:
-      - "PC Member - Data and Tool Showcase Track: 2025"
-    estado: "Actualmente"
-
-  - conferencia: "IEEE/ACM International Conference on Program Comprehension"
-    acronimo: "ICPC"
-    core: "A"
-    roles:
-      - "PC Member - Main Research Track: 2025, 2026"
-    estado: "Actualmente"
-
   - conferencia: "IEEE Working Conference on Software Visualization"
     acronimo: "IEEE VISSOFT"
     core: "B"
     roles:
-      - "PC Member - Main Research Track: 2018, 2019, 2020, 2022"
+      - "PC Member - Main Research Track: 2018, 2019, 2020, 2022, 2023, 2024, 2025"
       - "PC Chair - Main Research Track: 2021"
     estado: "Actualmente"
 
