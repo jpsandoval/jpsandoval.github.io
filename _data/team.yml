@@ -1,16 +1,16 @@
 students:
   - name: Kevin Cespedes
     logo: /assets/images/photos/user.png
-    position: PhD Student
-    role: Automatic Test Generation
+    role: PhD Student
+    thesis: Automatic Test Generation
   - name: Leonardo Centellas
     logo: /assets/images/photos/user.png
     position: PhD Student
-    role: Automatic Code Review
+    thesis: Automatic Code Review
   - name: Benjamin Gonzales
     logo: /assets/images/photos/user.png
-    position: Master Student
-    role: Mobile Accessibility Testing
+    role: Master Student
+    thesis: Mobile Accessibility Testing
 alumni:
   - name: Nicolas Jimenez
     logo: /assets/images/photos/user.png

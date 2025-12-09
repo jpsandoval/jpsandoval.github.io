@@ -14,7 +14,7 @@
             <li class="mb-2">
                 <div class="d-flex">
                 <div class="ms-1" style="margin-left:8px;">
-                    <div class="me-4"><b>{{ item.acronimo | default: "" }} <span class="text-muted ms-2">{% if item.core %}Core {{ item.core }}{% endif %}</span></b></div>
+                    <div class="me-4"><b>{{ item.acronimo | default: "" }} - <span class="text-muted ms-2">{% if item.core %}Core {{ item.core }}{% endif %}</span></b></div>
                     <div>{{ item.conferencia }}</div>
                     {% if item.roles %}
                     <ul class="mb-1 mt-1">
