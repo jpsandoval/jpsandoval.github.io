@@ -9,8 +9,8 @@ pub_post:       ' (Just Accepted)'
 #pub_post:       'Under review.'
 pub_last:       '<span class="badge badge-pill badge-publication badge-primary">IST</span><span class="badge badge-pill badge-publication badge-info">WoS</span> <span class="badge badge-pill badge-publication badge-success">Q1</span>'
 authors:
-- Tiara Rojas-Stambuk
-- Juan Pablo Sandoval Alcocer
+- Tiara Rojas-Stambuk*
+- Juan Pablo Sandoval Alcocer*#
 - Leonel Merino
 - Andres Neyem
 links:
