@@ -11,6 +11,22 @@ students:
     logo: /assets/images/photos/user.png
     role: Master Student
     thesis: Mobile Accessibility Testing
+  - name: Javiera Azocar-Oliva
+    logo: /assets/images/photos/user.png
+    role: Master Student
+    thesis: 
+  - name: Jose Tapia-Sanchez
+    logo: /assets/images/photos/user.png
+    role: Master Student
+    thesis: 
+  - name: Jose Alonso-Lecaros
+    logo: /assets/images/photos/user.png
+    role: Master Student
+    thesis: 
+  - name: Estefania Pakarati-Cofre
+    logo: /assets/images/photos/user.png
+    role: Master Student
+    thesis: 
 alumni:
   - name: Nicolas Jimenez
     logo: /assets/images/photos/user.png
