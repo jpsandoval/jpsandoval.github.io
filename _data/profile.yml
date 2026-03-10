@@ -81,15 +81,15 @@ experience:
    date: 2012
 
 awards:
-- name: ACM SIGSOFT Distinguished Paper Award. Paper - Increasing the Effectiveness of Automatically Generated Tests by Improving Class Observability=
+- name: ACM SIGSOFT Distinguished Paper Award. Paper - Increasing the Effectiveness of Automatically Generated Tests by Improving Class Observability
   institution: International Conference on Software Engineering (ICSE 2025, Core A*).
   place: Ottawa, Canada
   date: 2025
-- name: Best Paper Award (Third Place). Paper - MethodProxies: A Safe and Fast Message-Passing Control Library
+- name: Best Paper Award (Third Place). Paper - MethodProxies. A Safe and Fast Message-Passing Control Library
   institution: International Workshop in Smalltalk Technologies (IWST 2024)
   place: Lille, France
   date: 2024
-- name: Most Influential Paper Award. Paper - Performance Evolution Blueprint: Understanding the Impact of Software Evolution on Performance.
+- name: Most Influential Paper Award. Paper - Performance Evolution Blueprint. Understanding the Impact of Software Evolution on Performance.
   institution: IEEE Working Conference on Software Visualization (VISSOFT 2023, Core B).
   place: Bogotá, Colombia
   date: 2023
@@ -97,7 +97,7 @@ awards:
   institution: Universidad Católica Boliviana "San Pablo"
   place: Bolivia
   date: 2021
-- name: Best Paper Award. Paper - Performance Evolution Matrix: Visualizing Performance Variations along Software Versions
+- name: Best Paper Award. Paper - Performance Evolution Matrix. Visualizing Performance Variations along Software Versions
   institution: IEEE Working Conference on Software Visualization (VISSOFT 2019, Core B).
   place: Cleveland, Ohio, USA
   date: 2019
@@ -109,7 +109,7 @@ awards:
   institution: University of Chile
   place: Chile
   date: 2017
-- name: Best Paper Award. Paper - Reducing Waste in Expandable Collections: The Pharo Case
+- name: Best Paper Award. Paper - Reducing Waste in Expandable Collections, The Pharo Case
   institution: International Workshop in Smalltalk Technologies (IWST 2014)
   place: Cambridge, England
   date: 2014
