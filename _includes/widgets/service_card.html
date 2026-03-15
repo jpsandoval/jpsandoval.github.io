@@ -4,57 +4,59 @@
       <div class="card-body p-4">
         <div class="row">
 
-        {% comment %} === Conferencias (Programa/Reviewer) === {% endcomment %}
-        {% if site.data.service.revisor_conferencias %}
-        <div class="col-md-9">
-        <div class="mx-2 my-1">
-            <h6>Participación como Revisor/Comité en Conferencias</h6>
-            <ul class="list small pl-3 mb-1">
-            {% for item in site.data.service.revisor_conferencias %}
-            <li class="mb-2">
-                <div class="d-flex">
-                <div class="ms-1" style="margin-left:8px;">
-                    <div class="me-4"><b>{{ item.acronimo | default: "" }} - <span class="text-muted ms-2">{% if item.core %}Core {{ item.core }}{% endif %}</span></b></div>
-                    <div>{{ item.conferencia }}</div>
+          {% comment %} === Conferencias (Programa/Reviewer) === {% endcomment %}
+          {% if site.data.service.revisor_conferencias %}
+          <div class="col-md-12 mb-2">
+            <div class="mx-2 my-1">
+              <h6>Participación como Revisor/Comité en Conferencias</h6>
+              <ul class="list-unstyled mt-3 mb-1">
+                {% for item in site.data.service.revisor_conferencias %}
+                <li class="media mb-3">
+                  <i class="fas fa-users-cog mr-2 mt-1 text-muted" style="width: 18px; text-align: center;"></i>
+                  <div class="media-body">
+                    <div class="small"><b>{{ item.acronimo | default: "" }}</b>{% if item.core %} <span
+                        class="text-muted">(Core {{ item.core }})</span>{% endif %}</div>
+                    <div class="small text-muted"><em>{{ item.conferencia }}</em></div>
                     {% if item.roles %}
-                    <ul class="mb-1 mt-1">
-                    {% for r in item.roles %}
-                    <li>{{ r }}</li>
-                    {% endfor %}
+                    <ul class="small text-muted mb-1 mt-1 pl-3">
+                      {% for r in item.roles %}
+                      <li>{{ r }}</li>
+                      {% endfor %}
                     </ul>
                     {% endif %}
-                </div>
-                </div>
-            </li>
-            {% endfor %}
-            </ul>
-        </div>
-        </div>
-        {% endif %}
-
+                  </div>
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+          {% endif %}
 
           {% comment %} === Revistas (WoS) === {% endcomment %}
-{% if site.data.service.revisor_revistas %}
-<div class="col-md-9">
-  <div class="mx-2 my-1">
-    <h6>Revisor de Revistas (Web of Science)</h6>
-    <ul class="list small pl-3 mb-1">
-      {% for item in site.data.service.revisor_revistas %}
-      <li class="mb-2">
-        <div class="d-flex">
-          <div class="ms-1" style="margin-left:8px;">
-            <div class="me-4"><b>{{ item.acronimo | default: "" }}</b></div>
-            <div>{{ item.revista }}</div>
-            <div>{{ item.rol | default: "" }}</div>
-            <div>{{ item.year | default: "" }}</div>
+          {% if site.data.service.revisor_revistas %}
+          <div class="col-md-12 mb-4">
+            <div class="mx-2 my-1">
+              <h6 class="mt-2">Revisor de Revistas (Web of Science)</h6>
+              <div class="row mt-3">
+                {% for item in site.data.service.revisor_revistas %}
+                <div class="col-md-6 mb-3">
+                  <div class="media">
+                    <i class="fas fa-book-open mr-2 mt-1 text-muted" style="width: 18px; text-align: center;"></i>
+                    <div class="media-body">
+                      <div class="small"><b>{{ item.acronimo | default: "" }}</b>, {{ item.revista }}{% if item.year %}
+                        <span class="text-muted ml-1">({{ item.year }})</span>{% endif %}
+                      </div>
+                      {% if item.rol %}
+                      <div class="small text-muted">{{ item.rol }}</div>
+                      {% endif %}
+                    </div>
+                  </div>
+                </div>
+                {% endfor %}
+              </div>
+            </div>
           </div>
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-{% endif %}
+          {% endif %}
 
 
         </div>
