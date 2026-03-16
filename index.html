@@ -20,12 +20,23 @@ navbar_title: Home
         {% endif %}
 
         {% if site.data.display.homepage.show_selected_publications %}
-        {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
-        {%
-        include widgets/publication_card.html
-        publications=pubs
-        title='<i class="fas fa-star"></i> Selected Publications'
-        %}
+        {% assign pubs_by_year = site.publications | sort: "date" | reverse | where: "selected", true | group_by_exp:
+        "item", "item.date | date: '%Y'" %}
+        <div class="small text-muted mb-3" style="margin-left: -5px;">
+            <em>(* Equal contribution, # Corresponding author)</em>
+        </div>
+        {% for year in pubs_by_year %}
+
+        <h4 class="mt-4 mt-md-5" id="{{ year.name }}">{{ year.name }}</h4>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+            {%
+            include widgets/publication_card.html
+            publications=year.items
+            title='<i class="fas fa-star"></i> Selected Publications'
+            hide_title=true
+            %}
+        </div>
+        {% endfor %}
         {% endif %}
     </div>
 </div>
