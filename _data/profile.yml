@@ -81,7 +81,7 @@ experience:
    date: 2012
 
 awards:
-- name: ICPE 2016’s Most Influential Paper Award. Paper - Increasing the Effectiveness of Automatically Generated Tests by Improving Class Observability
+- name: ICPE 2016’s Most Influential Paper Award. Paper - Learning from Source Code History to Identify Performance Failures
   institution: International Conference on Performance Engineering (ICPE 2026, Core B).
   place: Florence, Italy
   date: 2026
