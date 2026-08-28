@@ -7,7 +7,7 @@ pub_date:       "2026"
 pub_post:       ' (Just Accepted)'
 # pub_pre:        "Submitted to "
 #pub_post:       'Under review.'
-pub_last:       '<span class="badge badge-pill badge-publication badge-primary">COLA</span>'
+pub_last:       '<span class="badge badge-pill badge-publication badge-primary">COLA</span><span class="badge badge-pill badge-publication badge-info">WoS</span>'
 authors:
 - Sebastian Jordan Montaño*
 - Stéphane Ducasse
