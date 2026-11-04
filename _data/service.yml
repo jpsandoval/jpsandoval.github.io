@@ -3,7 +3,7 @@ revisor_conferencias:
     acronimo: "ICSE"
     core: "A*"
     roles:
-      - "PC Member - Tool Demonstration and Data Showcase: 2027.
+      - "PC Member - Tool Demonstration and Data Showcase: 2027."
     estado: "Actualmente" 
     
   - conferencia: "IEEE/ACM International Conference on Program Comprehension"
