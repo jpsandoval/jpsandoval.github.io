@@ -4,6 +4,14 @@ revisor_conferencias:
     core: "A*"
     roles:
       - "PC Member - Tool Demonstration and Data Showcase: 2027."
+    estado: "Actualmente"
+
+  - conferencia: "IEEE/ACM International Conference on Software Testing"
+    acronimo: "ICST"
+    core: "A"
+    roles:
+      - "PC Member - New Ideas and Emerging Results: 2027."
+      - "PC Member - Posters Track: 2027."
     estado: "Actualmente" 
     
   - conferencia: "IEEE/ACM International Conference on Program Comprehension"
